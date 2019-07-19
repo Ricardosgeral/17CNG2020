@@ -1,0 +1,11 @@
+*~
+*.sublime*
+Gemfile.lock
+_site
+.sass-cache
+*.pyc
+lixo/
+.travis.d/
+*CNG-google_client.id*
+*.xml
+*.ai
