@@ -13,7 +13,7 @@ The website uses jekyll engine to generate the website using the templates.  To 
 To generate the website and serve it from a local webserver, e.g., for debugging
 
     bundle exec jekyll serve
-
+ 
 ## Overview
 
 The repository is organized as follows:
