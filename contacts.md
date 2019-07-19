@@ -37,6 +37,6 @@ Email: spg@lnec.pt
   <br>
   <br>
   <p style="color: grey; font-size:0.8em"> {{ site.time | date: '%Y' }} Copyright {{ site.title }}
- | Ricardo dos Santos, Creative Commons License, 
+ | Ricardo Correia dos Santos, Creative Commons License, 
   <a href="https://github.com/ricardosgeral/CNG" target="_blank"> Source </a>
   </p>
