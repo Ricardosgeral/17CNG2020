@@ -1,0 +1,72 @@
+# Special considerations for the index page:
+# - info: Workshop proposals due
+# - index page will show date only if important==true
+
+# All listed dates will appear in the specified order, so for chronological order, please place your items in a chronological order :D
+
+# info: general info field included in the corresponding site
+# info_main: the same info with additional text appearing in the home page
+# i.e., submission deadline for papers, but Main conference submission deadline for the home page to avoid confusing other submission deadlines...entendi?
+# HOWEVER, info_main will only appear on the main site if important:true is present!
+
+#set the number of items to show before older dates in the header of js/script.js
+
+congressos:
+  track: main
+  info_main: Jovens Geotécnicos | 10CLBG | 17CNG
+  date: 2020, 3 | 4 | 5-6 de maio
+  important: true
+
+programa-final:
+  track: flyer
+  info_main: Divulgação do programa definitivo
+  date: 2020, 27 de abril
+  important: true
+
+registration-earlybird:
+  track: registration
+  info_main: Data limite para incrição a preço reduzido
+  date: 2018, 30 de março
+  important: true
+
+papers-final:
+  track: main
+  info_main: Data limite para envio da versão definitiva das comunicações
+  date: 2020, 20 de março
+  important: true
+
+papers-revisao:
+  track: main
+  info_main: Informação sobre a aceitação dos trabalhos e eventuais alterações
+  date: 2020, 21 de fevereiro
+  important: true
+
+papers-entrega:
+  track: main
+  info_main: Data limite para submissão das comunicações
+  date: 2020, 19 de janeiro
+  important: true
+
+programa2:
+  track: flyer
+  info_main: Divulgação do 2º Boletim
+  date: 2019, 20 de dezembro
+  important: true
+
+resumos-aceitacao:
+  track: main
+  info_main: Informação sobre a aceitação dos resumos
+  date: 2019, 30 de novembro
+  important: true
+
+resumos-entrega:
+  track: main
+  info_main: Data limite para envio dos resumos
+  date: 2019, 31 de outubro
+  important: true
+
+progama1:
+  track: flyer
+  info_main: Divulgação do 1º Boletim
+  date: <del> 2019, 15 de julho </del>
+  important: true

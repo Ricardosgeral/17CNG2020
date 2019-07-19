@@ -1,0 +1,31 @@
+#set the number of items to show before older dates in the header of js/script.js
+#- date: 2018, 26 Agosto
+#  news: Thank you everyone for participating. Selected images of all days of the conference is available <a href="https://photos.app.goo.gl/sJgi1aN74cSkaNWi6">here</a>
+#
+#- date: August 9, 2018
+#  news: Papers of main conference and posters are available through links in the <a href="program.html">program</a>
+#
+#- date: July 9, 2018
+#  news: Early registration deadline is on <a href="registration.html">July 14</a>
+#
+#
+#- date: July 2, 2018
+#  news: <a href="hackathon.html">Hackathon</a> submission deadline is extended
+#
+#- date: June 30, 2018
+#  news: <a href="program.html">Programas do CNG e do CLBG</a> são publicados
+#
+#- date: May 21, 2018
+#  news: Lista dos <a href="accepted-papers.html">artigos aceites</a> para o 17CNG está publicada
+#
+- date: 2019, 20 de setembro
+  news: <a href="registration.html">Inscrição</a> nos congressos está aberta
+
+- date: 2019, 15 de julho
+  news: Apelo a resumos para o <a href="call-papers-CNG.html"> 17CNG</a> e para o <a href="call-papers-CLBG.html"> 10CLBG </a>
+
+- date: 2019, 15 de julho
+  news: Lançamento do 1º boletim
+
+- date: 2019, 15 de julho
+  news: Entrada em funcionamento do <a href="index.html"> site</a> do 17º Congresso Nacional de Geotecnia (17CNG) e do 10º Congresso Luso-Brasileiro de Geotecnia (10CLBG)
