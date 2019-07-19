@@ -1,0 +1,195 @@
+safe: false
+source: .
+destination: ./_site
+plugins_dir: ./_plugins
+lsi: true
+highlighter: rouge
+markdown: kramdown
+exclude: ['_DOCS', '_SCRIPTS', '.travis.yml', '.travis.d', '.sass-cache', 'Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md', 'LICENSE.md']
+sass:
+  style: compressed
+encoding: UTF-8
+
+plugins:
+  - jekyll-assets
+
+url: http://www.lnec.pt
+baseurl: /CNG
+
+# Configuration for site
+title: "17CNG-2020"
+logo:
+  image: images/17CNG_logo.png
+  info: 17CNG 2020, LNEC, Lisboa
+
+#google_analytics_id: UA-127895044-1
+
+### Note. Uncomment and update spreadsheet parameters to enable pulling program
+###       data from Google Sheet(s)
+program:
+#   # If the specified file doesn't exist, there will be command-line dialog to create it
+#   # (Currently hardcoded for a dummy robot.mcrobot.jr@gmail.com account permissions)
+   google_client_id: .travis.d/CNG-google_client.id.json
+#   # Google spreadsheet with the conference data
+   spreadsheet:
+       - "1gNA03qkdmw4TITKLAGBijIY-zVNOwLFjqeeU5JWHNzk"  #17CNG Programs
+
+## Configuration for menu.html
+menu:
+- name: Início
+  url: /
+  icon: fa-home
+- name: Programa
+  icon: fa-calendar
+  submenu:
+    - name: Programa geral
+      url: /program.html
+      icon: fa-calendar
+    - name: 03/05, Domingo
+      url: /program_sunday.html
+      icon: fa-calendar
+    - name: 04/05, Segunda
+      url: /program_monday.html
+      icon: fa-calendar
+    - name: 05/05, Terça
+      url: /program_tuesday.html
+      icon: fa-calendar
+    - name: 06/05, Quarta
+      url: /program_wednesday.html
+      icon: fa-calendar
+
+- name: 17CNG
+  icon: fa-briefcase
+  submenu:
+    - name: Objetivos e temas
+      url:  /objectives-CNG.html
+      icon: fa-bullseye
+    - name: Apelo a comunicações
+      url:  /call-papers-CNG.html
+      icon: fa-bullhorn
+    - name: Instruções para submissão
+      url:  /submission-CNG.html
+      icon: fa-pencil
+    - name: Artigos aceites
+      url:  /accepted-papers-CNG.html
+      icon: fa-check
+- name: 10CLBG
+  icon: fa-briefcase
+  submenu:
+    - name: Objetivos
+      url:  /objectives-CLBG.html
+      icon: fa-bullseye
+    - name: Apelo a comunicações
+      url:  /call-papers-CLBG.html
+      icon: fa-bullhorn
+    - name: Instruções para submissão
+      url:  /submission-CLBG.html
+      icon: fa-pencil
+    - name: Artigos aceites
+      url:  /accepted-papers-CLBG.html
+      icon: fa-check_sign
+- name: Inscrição
+  icon: fa-user-plus
+  url: /registration.html
+- name: Local
+  url:  /lnec.html
+  icon: fa-map-marker
+- name: Acomodações-Hotéis
+  icon: fa-building-o
+  url: /hoteis.html
+- name: Visitas técnicas
+  icon: fa-map-signs
+  url: /technical_visits.html
+- name: Eventos sociais
+  icon: fa-calendar
+  submenu:
+  - name: Receção
+    icon: fa-glass
+    url: /reception.html
+#- name: Jantar dos estudantes
+#    icon: fa-graduation-cap
+#    url: /student_dinner.html
+  - name: Banquete
+    icon: fa-cutlery
+    url: /banquet.html
+- name: Patrocinadores
+  url: /supporters.html
+  icon: fa-handshake-o
+- name: Comissões-17CNG
+  icon: fa-users
+  submenu:
+    - name: Comissão de Honra
+      url: /committie_honra_CNG.html
+      icon: fa-users
+    - name: Comissão de Acompanhamento
+      url: /committie_acomp_CNG.html
+      icon: fa-users
+    - name: Comissão Organizadora
+      url: /committie_org_CNG.html
+      icon: fa-users
+    - name: Comissão Científica
+      url: /committie_cientifica_CNG.html
+      icon: fa-users
+#    - name: Comissão de Revisão
+#      url: /committie_revisao_CNG.html
+#      icon: fa-users
+
+- name: Comissões-10CLBG
+  icon: fa-users
+  submenu:
+    - name: Comissão Organizadora
+      url: /committie_org_CLBG.html
+      icon: fa-users
+    - name: Comissão Científica
+      url: /committie_cientifica_CLBG.html
+      icon: fa-users
+#    - name: Comissão de Revisão
+#      url: /committie_revisao_CLBG.html
+#      icon: fa-users
+
+
+- name: Informações úteis
+  icon:  fa-map-pin
+  submenu:
+
+  - name: Chegar ao LNEC
+    url: /getting_LNEC.html
+    icon: fa-car
+  - name: Mobilidade partilhada
+    url: /mobility.html
+    icon: fa-bicycle
+  - name: Sobre Lisboa
+    url: /getting_around.html
+    icon: fa-compass
+- name: Contatos
+  url: /contacts.html
+  icon: fa-at
+
+
+colors:
+  highlight: aaaaaa
+  highlight-darker: f9e90c
+  hfont: ffffff
+
+  program:
+    break-background: d1d1d1
+
+# Set to True when ready to show Live Streaming links in the program
+enable_remote: false
+
+assets:
+  cache: .sass-cache
+  features:
+    automatic_img_size: false
+
+  sources:
+    - _assets/css
+    - _assets/images
+    - _assets/fonts
+    - _assets/js
+    - _assets/bower
+
+  autoprefixer:
+    browsers:
+      - "last 2 versions"
+      - "IE > 9"
