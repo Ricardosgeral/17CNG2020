@@ -1,6 +1,4 @@
 [
-
-  [200, "cisco.png",    "https://www.cisco.com/", "cisco", 0, 200, 379,         "platinum"],
   [200, "facebook.png", "https://research.fb.com/", "facebook", 0, 713, 2026,   "platinum"],
   [200, "ericsson.png", "https://ericsson.com/", "ericsson", 0, 116, 104,       "platinum"],
 
@@ -10,8 +8,10 @@
 
   [50, "amazon.png", "https://www.amazon.com/", "amazon", 0, 300, 120,          "silver"],
   [50, "microsoft.jpg", "https://www.microsoft.com", "microsoft", 0, 600, 250,  "silver"],
-  [50, "netflix.png", "https://www.netflix.com", "netflix", 0, 1800, 756,       "silver"],
+  [50, "prata.jpg", "x", "prata", 0, 650, 650,  "prata"],
 
+
+  [20, "bronze.jpg", "https://www.netflix.com", "bronze", 0, 1300, 1273,       "bronze"],
   [20, "SPG.png", "https://www.spgeotecnia.pt/", "spg", 0, 723, 239,            "bronze"],
   [20, "lnec.png", "https://www.lnec.pt/", "lnec", 0, 1146, 346,                "bronze"],
   [20, "ABMS.png", "https://www.abms.com.br/", "abms", 0, 723, 239,             "bronze"],

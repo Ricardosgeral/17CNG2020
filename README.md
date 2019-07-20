@@ -57,7 +57,8 @@ The site uses a bunch of 3rd party javascript libraries. You will want to use th
 </div>
 ```
 
-- Supporters and their priorities that will be shown on the footer (and on the supporters.html as well), please edit `_data/supporters.json` (prio, picture name, link, 0, width, height, tag). Note that width and height are important since they are used to show the pictures in a good aspect ratio. You can easily get this info in linux as follows:
+- Supporters and their priorities that will be shown on the footer (and on the supporters.html as well), 
+please edit `_data/supporters.json` (prio, picture name, link, 0, width, height, tag). Note that width and height are important since they are used to show the pictures in a good aspect ratio. You can easily get this info in linux as follows:
 ```
 $ file vmware.jpg
 
