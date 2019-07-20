@@ -15,9 +15,9 @@ A correspondência deve ser dirigida para:
 
 A/C Secretariado do 17º Congresso Nacional de Geotecnia
 
-Av. do Brasil, 110	1700-066 Lisboa	 Portugal
+Av. do Brasil, 101,	1700-066 Lisboa, Portugal
 
-
+ 
 ## Informações
 
 ### Secretariado do 17º Congresso Nacional de Geotecnia
