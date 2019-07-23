@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Banquete final
+title: Banquete do 17CNG e banquete do 10CLBG
 group: Eventos sociais
 ---
 
@@ -9,7 +9,8 @@ group: Eventos sociais
 ## {{ page.title }}
 
 
-...
+A ser anunciado oportunamente.
+
 
 <!--
 <table style="width:100%;text-align:center;">
@@ -23,8 +24,9 @@ group: Eventos sociais
 </tr>
 
 </table>
--->
+
 
 ## Como chegar
 
 ....
+-->

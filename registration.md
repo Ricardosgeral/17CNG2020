@@ -16,8 +16,7 @@ registrations:
 ---
 
 # {{ page.title }}
-A inscrição no 17CNG e no 10CLBG é efetuada através do preenchimento do [Formulário online]().
-
+A inscrição no 17CNG e no 10CLBG é efetuada através do preenchimento de um formulário (a ser disponibilizado oportunamente).
 
 
 A data limite para inscrição a custo reduzido é **31 de janeiro 2020**.
@@ -65,5 +64,5 @@ A data limite para inscrição a custo reduzido é **31 de janeiro 2020**.
 
 
 
-[Inscrição 17CNG/10CLBG](https://XXXXXX){: data-role="button" class="button" style="width:90%;"}
+[Inscrição 17CNG/10CLBG (em breve)](#){: data-role="button" class="button" style="width:90%;"}
 

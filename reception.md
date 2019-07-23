@@ -10,7 +10,8 @@ group: Eventos sociais
 ## {{ page.title }}
 
 
-...
+A ser anunciado oportunamente.
+
 
 
 <!--

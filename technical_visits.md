@@ -7,6 +7,6 @@ group: Visitas-técnicas
 
 # {{page.title}}
 
-.....
+A ser anunciado oportunamente.
 
 

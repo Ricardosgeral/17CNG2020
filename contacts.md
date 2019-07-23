@@ -24,7 +24,7 @@ Av. do Brasil, 101,	1700-066 Lisboa, Portugal
 
 Tel: + 351 21 844 38 59
 
-Email: spg@lnec.pt
+Email: 17cng2020@lnec.pt
 
 
 ### Página da internet

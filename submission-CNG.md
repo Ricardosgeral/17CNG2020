@@ -7,7 +7,7 @@ group: 17CNG
 # {{ page.title }}
 
 
-
+Disponível brevemente 
 
 <!--
 The ... conference seeks papers describing significant research contributions to the field of data communication networks and networked systems.
@@ -50,7 +50,7 @@ Both authors and PC members provide PC conflict information. The PC will review 
    * Collaboration on a project, publication, or grant proposal within the past 2 years (i.e., 2016 or later).
 
 If there is no basis for PC conflicts provided by authors, those conflicts will be removed. Improperly identifying PC members as a conflict to avoid having an individual review your paper may lead to your paper being rejected. If you have concerns, please contact the PC chairs.
--->
+
 
 ....
 
@@ -60,8 +60,10 @@ If there is no basis for PC conflicts provided by authors, those conflicts will 
 ...
 
 ## Instruções para utilização da plataforma ***easyshare*** 
-
+ 
 
 ## Processo de revisão e de aceitação das comunicações
 As comunicações enviadas pelos autores vão ser revistas por membros da comissão de revisão.  
 A notificação aos autores acerca da aceitação e de eventuais alterações ou de sugestões para melhoramento das comunicações será enviado até **21 de fevereiro de 2020**. 
+ 
+-->
