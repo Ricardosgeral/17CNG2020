@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Contatos
+title: Contactos
 group: Contatos
 
 ---
@@ -12,10 +12,9 @@ group: Contatos
 A correspondência deve ser dirigida para:
 
 *Comissão Organizadora do 17º Congresso Nacional de Geotecnia*
-
 A/C Secretariado do 17º Congresso Nacional de Geotecnia
 
-Av. do Brasil, 101,	1700-066 Lisboa, Portugal
+Avenida do Brasil, 101,	1700-066 Lisboa, Portugal
 
  
 ## Informações
@@ -24,7 +23,7 @@ Av. do Brasil, 101,	1700-066 Lisboa, Portugal
 
 Tel: + 351 21 844 38 59
 
-Email: 17cng2020@lnec.pt
+*e-mail*: 17cng2020@lnec.pt
 
 
 ### Página da internet

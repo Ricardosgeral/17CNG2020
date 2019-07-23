@@ -26,7 +26,7 @@ Nos sistemas de *car/scooter sharing* é necessário o envio do cartão de ident
 O pagamento é sempre efetuado através de cartão de crédito ou *Paypal*.
 
 ## *Car sharing*
-Nos sistemas de car sharing não tem que se preocupar com o abastecimento do automóvel nem com o pagamento de parquímetro.
+Nos sistemas de *car sharing* não tem que se preocupar com o abastecimento do automóvel, nem com o pagamento de parquímetro.
 
 <table class="table table-hover">
   <tbody>

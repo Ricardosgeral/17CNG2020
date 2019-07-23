@@ -90,9 +90,9 @@ og_tags:
 A Sociedade Portuguesa de Geotecnia ([SPG](www.spgeotecnia.pt)) e o Laboratório Nacional de Engenharia Civil ([LNEC](www.lnec.pt)) organizam o 17º Congresso Nacional de Geotecnia (**17CNG**). 
 O Congresso decorrerá em Lisboa, nas instalações do LNEC, de 3 a 6 de maio de 2020. 
 Na mesma ocasião, a 4 de maio de 2020, decorrerá o 10º Congresso Luso-Brasileiro de Geotecnia (**10CLBG**), organizado pela SPG, a Associação Brasileira de Mecânica dos Solos e Engenharia Geotécnica ([ABMS](www.abms.com.br)) e o LNEC. 
-No dia 3 de maio de 2019 haverá também lugar ao **10º Encontro de Jovens Geotécnicos**.
+No dia 3 de maio de 2019 haverá também lugar ao 10º Encontro de Jovens Geotécnicos (**10EJG**).
 
-O Congresso será organizado em sessões plenárias, com conferências proferidas por especialistas nacionais e estrangeiros, 
+O evento será organizado em sessões plenárias, com conferências proferidas por especialistas nacionais e estrangeiros, 
 e sessões técnicas, com apresentação de comunicações selecionadas. 
 As conferências e as comunicações serão disponibilizadas em formato digital.
 

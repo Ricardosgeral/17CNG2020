@@ -13,7 +13,7 @@
 
 congressos:
   track: main
-  info_main: Jovens Geotécnicos | 10CLBG | 17CNG
+  info_main: 10EJG | 10CLBG | 17CNG
   date: 2020, 3 | 4 | 5-6 de maio
   important: true
 
@@ -23,11 +23,6 @@ programa-final:
   date: 2020, 27 de abril
   important: true
 
-registration-earlybird:
-  track: registration
-  info_main: Data limite para incrição a preço reduzido
-  date: 2018, 30 de março
-  important: true
 
 papers-final:
   track: main
@@ -39,6 +34,12 @@ papers-revisao:
   track: main
   info_main: Informação sobre a aceitação dos trabalhos e eventuais alterações
   date: 2020, 21 de fevereiro
+  important: true
+
+registration-earlybird:
+  track: registration
+  info_main: Data limite para incrição a preço reduzido
+  date: 2018, 31 de janeiro
   important: true
 
 papers-entrega:
@@ -68,5 +69,5 @@ resumos-entrega:
 progama1:
   track: flyer
   info_main: Divulgação do 1º Boletim
-  date: <del> 2019, 15 de julho </del>
+  date: <del> 2019, 24 de julho </del>
   important: true
