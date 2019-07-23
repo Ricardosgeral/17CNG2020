@@ -6,21 +6,30 @@ title: Patrocinadores
 # {{ page.title }}
 
 
+As empresas interessadas em colaborar para o patrocínio do 17º Congresso Nacional de Geotecnia e do
+10º Congresso Luso-Brasileiro de Geotecnia podem fazê-lo de várias formas, conforme os quadros abaixo.
+Para mais informações não deixe de [contactar a Organização](contacts.html) através de um dos diversos contactos
+disponibilizados. 
+
+<br>
 <p>
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
-### Platina
+### Platina (6000 Euros)
 </div>
 
 <div class="ui-body ui-body-a" markdown="1">
-- Brief airtime at special event
-- Designated special event support
-- Designated lunch or coffee break
-- Recruitment of exhibit table
-- Small display space for brochures or flyers
-- Three company-provided promotion items in each tote-bag.
-- May supply giveaways or swags.
-- 4 conference registrations included.
+- 8 Inscrições de participante;
+- Logótipo no 2º e 3º boletim (*);
+- Logótipo no website do evento (*);
+- Logótipo no CD-ROM das atas do evento (*);
+- Logótipo no livro de resumos (*);
+- Logótipo no programa final (*);
+- Logótipo e link do website da empresa no website do evento (*);
+- Folheto informativo e ou CD-Rom da empresa incluído nas pastas a distribuir aos participantes;
+- Projeção de publicidade da empresa nos intervalos das sessões (*).
+
+<small> (*) Logótipo com dimensão maior que o logótipo do patrocinador "Ouro" </small>
 
 <!-- Current Sponsors: -->
 
@@ -40,16 +49,20 @@ title: Patrocinadores
 <p>
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
-### Ouro
+### Ouro (4000 Euros)
 </div>
 
 <div class="ui-body ui-body-a" markdown="1">
-- Designated lunch or coffee break
-- Recruitment of exhibit table
-- Small display space for brochures or flyers
-- Two company-provided promotion items in each tote bag.
-- May supply giveaways or swags.
-- 3 conference registrations included.
+- 5 Inscrições de participante;
+- Logótipo no 2º e 3º boletim (*);
+- Logótipo no website do evento (*);
+- Logótipo no CD-ROM das atas do evento (*);
+- Logótipo no livro de resumos (*);
+- Logótipo no programa final (*);
+- Logótipo e link do website da empresa no website do evento (*);
+- Projeção de publicidade da empresa nos intervalos das sessões (*).
+
+<small> (*) Logótipo com dimensão maior que o logótipo do patrocinador "Prata" </small>
 
 <div style="text-align: center;">
 {% for supporter in site.data.supporters
@@ -68,17 +81,25 @@ title: Patrocinadores
 <p>
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
-### Prata
+
+
+
+### Prata (2000 Euros)
 
 </div>
 
 <div class="ui-body ui-body-a" markdown="1">
-- Designated lunch or coffee break
-- Recruitment of exhibit table
-- Small display space for brochures or flyers
-- One company-provided promotion item in each tote bag
-- May supply giveaways or swags
-- 2 conference registration included
+- 2 Inscrições de participante;
+- Logótipo no 2º e 3º boletim (*);
+- Logótipo no website do evento (*);
+- Logótipo no CD-ROM das atas do evento (*);
+- Logótipo no livro de resumos (*);
+- Logótipo no programa final (*);
+- Logótipo e link do website da empresa no website do evento (*);
+- Projeção de publicidade da empresa nos intervalos das sessões (*).
+
+<small> (*) Logótipo com dimensão maior que o logótipo do patrocinador "Bronze" </small>
+
 
 <div style="text-align: center;">
 {% for supporter in site.data.supporters
@@ -97,14 +118,24 @@ title: Patrocinadores
 <p>
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
-### Bronze
+
+
+
+### Bronze (1000 Euros)
 
 </div>
 
 <div class="ui-body ui-body-a" markdown="1">
-- Logo or name visibility (web, print, email, on-site)
-- May supply giveaways or swags
-- 1 conference registration included
+- 1 Inscrições de participante;
+- Logótipo no 2º e 3º boletim (*);
+- Logótipo no website do evento (*);
+- Logótipo no CD-ROM das atas do evento (*);
+- Logótipo no livro de resumos (*);
+- Logótipo no programa final (*);
+- Logótipo e link do website da empresa no website do evento (*);
+- Projeção de publicidade da empresa nos intervalos das sessões (*).
+
+<small> (*) Logótipo com dimensão menor que o logótipo do patrocinador "Prata" </small>
 
 <div style="text-align: center;">
 {% for supporter in site.data.supporters

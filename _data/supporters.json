@@ -1,19 +1,15 @@
 [
-  [200, "facebook.png", "https://research.fb.com/", "facebook", 0, 713, 2026,   "platinum"],
-  [200, "ericsson.png", "https://ericsson.com/", "ericsson", 0, 116, 104,       "platinum"],
+  [400, "sponsors_types_platina.png", "https://www.google.com/", "platina1", 0, 220, 220,   "platinum"],
+  [400, "sponsors_types_platina.png", "https://www.google.com/", "platina1", 0, 220, 220,   "platinum"],
+  [400, "sponsors_types_platina.png", "https://www.google.com/", "platina1", 0, 220, 220,   "platinum"],
 
-  [100, "huawei.png", "https://www.huawei.com/", "huawei", 0, 406, 406,         "gold"],
-  [100, "alibaba.jpg", "http://alibabagroup.com", "alibaba", 0, 600, 178,       "gold"],
-  [100, "google.png", "https://www.google.com/", "google", 0, 416, 140,         "gold"],
-
-  [50, "amazon.png", "https://www.amazon.com/", "amazon", 0, 300, 120,          "silver"],
-  [50, "microsoft.jpg", "https://www.microsoft.com", "microsoft", 0, 600, 250,  "silver"],
-  [50, "prata.jpg", "x", "prata", 0, 650, 650,  "prata"],
+  [200, "sponsors_types_ouro.png", "https://www.google.com/", "ouro1", 0, 220, 220,   "gold"],
+  [200, "sponsors_types_ouro.png", "https://www.google.com/", "ouro2", 0, 220, 220,   "gold"],
 
 
-  [20, "bronze.jpg", "https://www.netflix.com", "bronze", 0, 1300, 1273,       "bronze"],
-  [20, "SPG.png", "https://www.spgeotecnia.pt/", "spg", 0, 723, 239,            "bronze"],
-  [20, "lnec.png", "https://www.lnec.pt/", "lnec", 0, 1146, 346,                "bronze"],
-  [20, "ABMS.png", "https://www.abms.com.br/", "abms", 0, 723, 239,             "bronze"]
+  [100, "sponsors_types_prata.png", "https://www.google.com/", "prata1", 0, 220, 220,   "silver"],
+  [100, "sponsors_types_prata.png", "https://www.google.com/", "prata2", 0, 220, 220,   "silver"],
 
+
+  [50, "sponsors_types_bronze.png", "https://www.google.com/", "bronze1", 0, 220, 220,   "bronze"]
 ]
