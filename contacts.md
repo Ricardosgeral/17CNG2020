@@ -29,7 +29,7 @@ Email: 17cng2020@lnec.pt
 
 ### Página da internet
 
-[www.17cng2020.lnec.pt](www.17cng2020.lnec.pt)
+[17cng2020.lnec.pt](http://17cng2020.lnec.pt)
 
 
 
