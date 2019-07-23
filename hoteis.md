@@ -9,10 +9,16 @@ group: Acomodações-Hotéis
 
 ## Hotéis em Lisboa com acordo com o LNEC
 
-Existem hotéis com preços especiais acordados com o LNEC ([veja as opções aqui]()), para visitantes e participantes em diferentes eventos organizados pelo LNEC. 
+Existem hotéis com preços especiais acordados com o LNEC (veja as opções em baixo), para visitantes e participantes em diferentes eventos organizados pelo LNEC. 
 As reservas devem ser efetuadas diretamente com o hotel e devem referir sempre o acordo comercial com o LNEC. 
 
 Note que, por vezes, obtêm-se melhores condições através dos sites de reserva (por exemplo, [Trivago](https://www.trivago.pt/), [Momondo](https://www.momondo.pt), [Destinia](https://destinia.pt), [Booking](https://www.booking.com),...).
+
+<br>
+
+<div style="text-align= center"> 
+<iframe src="https://docs.google.com/file/d/1N3hY_hD_bRPEM7YpzV3hPAKrMS0bYWWf/preview" width="70%" height="350px" float="center"></iframe>
+</div>
 
 
 ## Centro de Acolhimento do LNEC

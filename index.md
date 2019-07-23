@@ -120,7 +120,6 @@ Os dias das sessões incluirão almoço a que acresce a realização de outros e
 
 
 
-
 <div class="sponsors">
 	<a href="//www.lnec.pt/"><img src="images/LNEC_logo_2linhas.png" alt="Laboratório Nacional de Engenharia Civil" /></a>
 	<a href="//www.abms.com.br/"><img src="images/abms-logo.png" alt="Associação Brasileira de Mecânica dos solos e Engenharia Geotecnica" /></a>  
