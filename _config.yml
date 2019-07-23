@@ -22,7 +22,7 @@ logo:
   image: images/17CNG_logo.png
   info: 17CNG 2020, LNEC, Lisboa
 
-#google_analytics_id: UA-127895044-1
+google_analytics_id: UA-144463477-1
 
 ### Note. Uncomment and update spreadsheet parameters to enable pulling program
 ###       data from Google Sheet(s)
