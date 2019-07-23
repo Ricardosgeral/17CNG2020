@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Acomodações-Hoteis
+title: Acomodações/Hotéis
 group: Acomodações-Hotéis
 
 ---
