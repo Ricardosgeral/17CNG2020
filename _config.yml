@@ -14,7 +14,7 @@ plugins:
   - jekyll-assets
 
 url: http://17cng2020.lnec.pt
-baseurl:
+baseurl: /CNG
 
 # Configuration for site
 title: "17CNG-2020"
