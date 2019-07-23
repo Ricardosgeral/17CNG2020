@@ -33,7 +33,7 @@ Para mais informações sobre disponibilidade, reservas, preços e tipologias de
     <tr>
   <td> <img src="{{site.baseurl}}/images/hoteis/centro_acolhimentoLNEC.jpg" style="width:80%; max-width: 300px" title="Centro acolhimento LNEC" alt="Centro acolhimento LNEC"> </td>
   <td> <img src="{{site.baseurl}}/images/hoteis/centro_convivioLNEC.jpg" style="width:80%; max-width: 300px" title="Centro de convívio LNEC" alt="Centro de convívio LNEC"> </td>
-
+ 
   </tr>
     </tbody>
 </table>
