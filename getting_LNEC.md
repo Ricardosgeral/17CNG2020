@@ -25,7 +25,7 @@ group: Informações úteis
       <a href="https://www.metrolisboa.pt/viajar/alvalade/"> Alvalade - Linha verde</a><br>
       (900 metros do LNEC / 9-10 minutos a pé)
       </td>
-      <td>Autocarros com paragem no LNEC:<br><a href="http://www.carris.pt/pt/carreiras/pesquisa/?carreiraslocal=lnec"> 731, 783, 744 e 717 </a></td>
+      <td>Autocarros com paragem no LNEC:<br><a href="http://www.carris.pt/pt/carreiras/pesquisa/?carreiraslocal=lnec"> 717, 731, 750 e 783 </a></td>
     </tr>
 
   </tbody>
