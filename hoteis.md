@@ -15,8 +15,8 @@ As reservas devem ser efetuadas diretamente com o hotel e devem referir sempre o
 Note que, por vezes, obtêm-se melhores condições através dos sites de reserva (por exemplo, [Trivago](https://www.trivago.pt/), [Momondo](https://www.momondo.pt), [Destinia](https://destinia.pt), [Booking](https://www.booking.com),...).
 
 
-<div style="text-align= center"> 
-<iframe src="https://docs.google.com/file/d/1N3hY_hD_bRPEM7YpzV3hPAKrMS0bYWWf/preview" width="70%" height="350px" float="center"></iframe>
+<div style="text-align: center;"> 
+<iframe src="https://docs.google.com/file/d/1N3hY_hD_bRPEM7YpzV3hPAKrMS0bYWWf/preview" width="70%" height="210px"></iframe>
 </div>
 
 
@@ -29,9 +29,9 @@ Para mais informações sobre disponibilidade, reservas, preços e tipologias de
 
 <table class="table table-hover">
   <tbody>
-    <tr>
-  <td> <img src="{{site.baseurl}}/images/hoteis/centro_acolhimentoLNEC.jpg" style="width:80%; max-width: 300px" title="Centro acolhimento LNEC" alt="Centro acolhimento LNEC"> </td>
-  <td> <img src="{{site.baseurl}}/images/hoteis/centro_convivioLNEC.jpg" style="width:80%; max-width: 300px" title="Centro de convívio LNEC" alt="Centro de convívio LNEC"> </td>
+    <tr style="text-align: center;">
+  <td > <img src="{{site.baseurl}}/images/hoteis/centro_acolhimentoLNEC.jpg" style="width:95%; max-width: 400px" title="Centro acolhimento LNEC" alt="Centro acolhimento LNEC"> </td>
+  <td> <img src="{{site.baseurl}}/images/hoteis/centro_convivioLNEC.jpg" style="width:95%; max-width: 400px" title="Centro de convívio LNEC" alt="Centro de convívio LNEC"> </td>
  
   </tr>
     </tbody>
