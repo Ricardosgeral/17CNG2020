@@ -30,7 +30,7 @@ group: Informações úteis
 
   </tbody>
 </table>
- 
+  
 ## Carro próprio
 O LNEC situa-se na **Avenida do Brasil, nº 101, 1700-066, Lisboa**. As coordenadas GPS exatas são: *38º 45’34,4” N, 9º 8’ 27,7” O*.
 Ao chegar à entrada do campus do LNEC, deverá dirigir-se para a cancela com indicação de **Visitantes** (do lado esquerdo). 
