@@ -14,7 +14,6 @@ As reservas devem ser efetuadas diretamente com o hotel e devem referir sempre o
 
 Note que, por vezes, obtêm-se melhores condições através dos sites de reserva (por exemplo, [Trivago](https://www.trivago.pt/), [Momondo](https://www.momondo.pt), [Destinia](https://destinia.pt), [Booking](https://www.booking.com),...).
 
-<br>
 
 <div style="text-align= center"> 
 <iframe src="https://docs.google.com/file/d/1N3hY_hD_bRPEM7YpzV3hPAKrMS0bYWWf/preview" width="70%" height="350px" float="center"></iframe>
