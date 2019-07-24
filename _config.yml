@@ -1,6 +1,6 @@
 safe: false
 source: .
-destination: ./_site
+destination: ./docs
 plugins_dir: ./_plugins
 lsi: true
 highlighter: rouge
