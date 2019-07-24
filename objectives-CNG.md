@@ -32,4 +32,4 @@ O 17CNG discutirá um conjunto diversificado de temas, destacando-se os seguinte
 
 {% include dates.html track = "main" %}
 
-[Apelo a comunicações](scall-papers-CNG.html){: data-role="button" class="button" style="width:90%;"}
+[Apelo a comunicações](call-papers-CNG.html){: data-role="button" class="button" style="width:90%;"}
