@@ -6,8 +6,6 @@ group: 17CNG
 
 # {{page.title}}
 
-
-
 ## Submissão de resumos
 
 O 17º Congresso Nacional de Geotecnia (17CNG) é uma oportunidade para debater, analisar e divulgar os principais desenvolvimentos na área da Geotecnia. 
@@ -28,4 +26,4 @@ A data para aceitação dos resumos está marcada para **30 de novembro de 2019*
 
 {% include dates.html track = "main" %}
 
-[Instruções para submissão de comunicações](submission-CNG.html){: data-role="button" class="button" style="width:90%;"}
+[Instruções para os autores](submission-CNG.html){: data-role="button" class="button" style="width:90%;"}

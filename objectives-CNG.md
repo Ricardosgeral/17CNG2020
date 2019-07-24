@@ -6,9 +6,7 @@ group: 17CNG
 
 # {{page.title}}
 
-
 ## Objectivos
-
 
 O objetivo do 17CNG é promover a divulgação de conhecimento e o debate técnico e científico no domínio da geotecnia, 
 nomeadamente nas disciplinas da geologia de engenharia e da mecânica dos solos e das rochas, 
@@ -30,11 +28,8 @@ O 17CNG discutirá um conjunto diversificado de temas, destacando-se os seguinte
 - Risco
 
 
-
 ## <i class="fa fa-calendar"></i> Datas importantes
 
 {% include dates.html track = "main" %}
 
-<!--
-[Contacto](mailto:ricardos@lnec.pt,ricardos.geral@gmail.com?subject=[CNG/CLBG 2020]){: data-role="button" class="button" }
--->
+[Apelo a comunicações](scall-papers-CNG.html){: data-role="button" class="button" style="width:90%;"}

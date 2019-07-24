@@ -69,6 +69,6 @@ Lisboa conta, também, com estas quatro plataformas exclusivamente digitais, com
 
 ## Avião para Lisboa
 Quem chegar a Lisboa de avião irá aterrar no [Aeroporto de Lisboa](https://www.aeroportolisboa.pt), com o nome oficial de Aeroporto Humberto Delgado, também conhecido pelo anterior nome de Aeroporto da Portela (código IATA: HDL/LIS, código ICAO: LPPT). 
-Atualmente, o Aeroporto de Lisboa dispõe de dois terminais (T1 e T2) e situa-se na freguesia dos Olivais, em Lisboa, a apenas **5 minutos de táxi do LNEC**. 
+Atualmente, o Aeroporto de Lisboa dispõe de dois terminais (T1 e T2) e situa-se na freguesia dos Olivais, em Lisboa, a apenas **10 minutos de táxi do LNEC**. 
 Em termos de transportes públicos o Aeroporto é servido pela Estação terminal [Aeroporto](https://www.metrolisboa.pt/viajar/aeroporto/), da Linha Vermelha do [Metropolitado de Lisboa](https://www.metrolisboa.pt/), e por diversos [autocarros da Carris](http://www.carris.pt/pt/carreiras/pesquisa/?carreiraslocal=aeroporto).  
 

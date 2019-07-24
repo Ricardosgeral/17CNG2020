@@ -6,17 +6,15 @@ og_tags:
     content: A Sociedade Portuguesa de Geotecnia (SPG) e o Laboratório Nacional de Engenharia Civil (LNEC) têm a honra de o convidar para o XVII Congresso Nacional de Geotecnia (17CNG), a realizar-se de 3 a 6 de maio de 2020, no Centro de Congressos do Laboratório Nacional de Engenharia Civil.
 ---
 
-<link href="{{ site.baseurl }}/css/camera.css" rel="stylesheet">
-<script src="{{ site.baseurl }}/js/camera.min.js"></script>
-
-
 <!--  Camera JS with Required jQuery Easing Plugin-->
 
 <script src="{{ site.baseurl }}/js/easing.min.js" type="text/javascript"></script>
 
-
 <!-- Bootstrap Js -->
 <script src="{{ site.baseurl }}/js/bootstrap.min.js" type="text/javascript"></script>
+
+<link href="{{ site.baseurl }}/css/camera.css" rel="stylesheet">
+<script src="{{ site.baseurl }}/js/camera.min.js"></script>
 
 <div class="containerwrap">
         <!--Camera Slide-->    
