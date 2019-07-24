@@ -118,7 +118,7 @@ Apenas algumas sugestões:
 - Come Prima, Restaurante Italiano ([Prazeres](https://www.comeprima.pt/))
 - Suntory, Exotic Japanese Fusion ([Campolide](https://www.google.com/search?q=suntory&rlz=1C1GCEU_en&oq=suntory&aqs=chrome..69i57j69i60.3575j0j4&sourceid=chrome&ie=UTF-8))
 - Mar ao Carmo ([Largo do Carmo](https://www.google.com/search?rlz=1C1GCEU_en&ei=H0o4Xf2WGqSCjLsPt_q62AE&q=mar+do+carmo&oq=mar+do+carmo&gs_l=psy-ab.3..0i203j0j0i203j0j0i22i30l5.19115.22772..23051...1.0..0.123.964.12j1......0....1..gws-wiz.......0i71j35i39j0i131j0i67j0i22i10i30.hdXWiKTskd8&ved=0ahUKEwi9opjIws3jAhUkAWMBHTe9DhsQ4dUDCAo&uact=5))
-
+- Adega das Gravatas ([Carnide](https://www.adegadasgravatas.com/adegadasgravatas))
 
 ## Locais a visitar fora de Lisboa
 
