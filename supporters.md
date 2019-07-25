@@ -14,7 +14,7 @@ As empresas interessadas em colaborar para o patrocínio do 17º Congresso Nacio
 
 
 
-## Exposição em stand
+## Exposição em *stand*
 
 Para mais informações não deixe de [contactar a Organização](contacts.html) através de um dos diversos contactos
 disponibilizados. 
