@@ -6,7 +6,7 @@ group: Local information
 
 # {{ page.title }}
 
-Sugere-se uma lista locais para descobrir e de atividades para fazer em Lisboa, útil tanto para visitantes como para locais.  
+Sugere-se uma lista de locais para descobrir e de atividades para fazer em Lisboa, útil tanto para visitantes como para locais.  
 Confira a check-list!
 
 ## Miradouros
