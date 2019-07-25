@@ -124,9 +124,3 @@ Os dias das sessões incluirão almoço a que acresce a realização de outros e
   <a href="//www.spgeotecnia.pt/"><img src="images/SPG_logo.png" alt="Sociedade Portuguesa de Geotecnia" /></a>
 
 </div>
-
-  <br>
-  <p style="color: grey; font-size:0.8em"> {{ site.time | date: '%Y' }} Copyright {{ site.title }}
- | Ricardo Correia dos Santos, Creative Commons License, 
-  <a href="https://github.com/ricardosgeral/CNG" target="_blank"> Source </a>
-  </p>

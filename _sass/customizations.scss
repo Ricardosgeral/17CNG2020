@@ -908,6 +908,49 @@ red {
 
 }
 
+
+//ricardo added
+
+.social-icons {
+    text-align: center;
+}
+.social-icons li {
+    display:inline-block;
+    list-style-type:none;
+    -webkit-user-select:none;
+    -moz-user-select:none;
+}
+.social-icons li a {
+    border-bottom: none;
+}
+.social-icons li img {
+    width:40px;
+    height:40px;
+    margin-right: 0px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* Layout rules
 -----------------------------------------------------------------------------------------------------------*/
 
@@ -921,7 +964,7 @@ red {
     .content-primary {
         float: none;
         width: 100%;
-        max-width: 55em;
+        max-width: 60em;
     }
 
     .content-primary h1 {
@@ -967,10 +1010,15 @@ red {
     .leftnav img {
         display: none;
     }
+
+    .leftnav .social-icons li img {
+        display: inline;
+    }
+
 }
 
 /* Bigger screens */
-@media all and (min-width: 60em) {
+@media all and (min-width: 55em) {
     .header {
         display: none;
     }
@@ -978,14 +1026,13 @@ red {
     .content-primary {
         //float: right;
         //width: 61%;
-        //max-width: 1800px;
         //margin-right: 10%;
         //padding-right: 10%;
         float: right;
         width: 100%;
         max-width: 1800px;
-        padding-left: 500px;
-        padding-right: 10%;
+        padding-left: 430px;
+        padding-right: 5%;
     }
 }
 
@@ -1048,7 +1095,6 @@ hr.keynote-divider {
     border-bottom: 1px solid rgba(255, 255, 255, 0.6);
 }
 
-
 //ricardo added
 
 .containerwrap {
@@ -1056,4 +1102,3 @@ hr.keynote-divider {
     grid-template-columns: 1fr;
     grid-template-rows: auto;
 }
-
