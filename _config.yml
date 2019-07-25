@@ -88,12 +88,18 @@ menu:
     - name: Artigos aceites
       url:  /accepted-papers-CLBG.html
       icon: fa-check_sign
+- name: 10EJG
+  url:  /jovens-geo.html
+  icon: fa-graduation-cap
 - name: Inscrição
   icon: fa-user-plus
   url: /registration.html
 - name: Local
   url:  /lnec.html
   icon: fa-map-marker
+- name: Prémio Teixeira Duarte
+  icon: fa-trophy
+  url: /premio-teixeira-duarte.html
 - name: Acomodações-Hotéis
   icon: fa-building-o
   url: /hoteis.html
@@ -106,9 +112,6 @@ menu:
   - name: Receção
     icon: fa-glass
     url: /reception.html
-#- name: Jantar dos estudantes
-#    icon: fa-graduation-cap
-#    url: /student_dinner.html
   - name: Banquete
     icon: fa-cutlery
     url: /banquet.html
