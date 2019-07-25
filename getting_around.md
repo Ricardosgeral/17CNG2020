@@ -131,7 +131,7 @@ Caso tenha tempo, pode aproveitar para visitar [a vila de Sintra, o Estoril e/ou
   </tr>
     </tbody>
 </table>
-
+ 
 ## Endereços úteis para descobrir Lisboa e Portugal
 
 - [Descubra Lisboa](http://www.portugalturismo.eu/regioes.aspx?id=3)
@@ -140,4 +140,4 @@ Caso tenha tempo, pode aproveitar para visitar [a vila de Sintra, o Estoril e/ou
 
 - [Turismo](www.turismodeportugal.pt)
 
-- [Previsão do tempo para Lisboa](https://www.tempo.pt/lisboa.html) 
+- [Previsão do tempo para Lisboa](https://www.tempo.pt/lisboa.htm) 
