@@ -12,6 +12,7 @@ o Prémio Ricardo Esquível Teixeira Duarte visa incentivar e distinguir os auto
 de soluções de projeto de obras geotécnicas ou de obras com relevante componente geotécnica, 
 que se destaquem por inovações na conceção, no projeto, na execução, nos materiais usados ou no controlo da sua execução.
 
+<br>
 
 <table class="table">
   <tbody>
