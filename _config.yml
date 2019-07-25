@@ -115,7 +115,7 @@ menu:
   - name: Banquete
     icon: fa-cutlery
     url: /banquet.html
-- name: Patrocinadores
+- name: Patrocinadores | Stands
   url: /supporters.html
   icon: fa-handshake-o
 - name: Comissões-17CNG
