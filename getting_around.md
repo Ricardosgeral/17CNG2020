@@ -99,7 +99,6 @@ Lisboa tem muitas zonas verdes entre parques temáticos e recreativos, jardins, 
      
 
 ## Onde comer em Lisboa
-Apenas algumas sugestões:
 
 <table class="table table-hover">
   <tbody>
@@ -109,6 +108,8 @@ Apenas algumas sugestões:
   </tr>
     </tbody>
 </table>
+
+Apenas algumas sugestões:
 
 - Adega Solar Minhoto ([junto ao LNEC](https://www.google.com/search?q=Adega+Solar+Minhoto&rlz=1C1GCEU_en&oq=adega+solar+minhoto&aqs=chrome.0.69i59.4023j0j4&sourceid=chrome&ie=UTF-8))
 - Monte Evarest, Restaurante Nepalês ([junto ao LNEC](https://www.zomato.com/grande-lisboa/everest-montanha-1-alvalade-lisboa))
