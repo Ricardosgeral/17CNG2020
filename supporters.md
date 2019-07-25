@@ -5,12 +5,22 @@ title: Empresas
 
 # {{ page.title }}
 
-## Patrocidador
+## Patrocinador
 
 As empresas interessadas em colaborar para o patrocínio do 17º Congresso Nacional de Geotecnia e do
 10º Congresso Luso-Brasileiro de Geotecnia podem fazê-lo de várias formas.
 
+<table class="table">
+  <tbody>
+    <tr>
+  <td> <img src="{{site.baseurl}}/images/sponsors/sponsors_types_platina.png" style="width:40%" title="" alt=""> </td>
+  <td> <img src="{{site.baseurl}}/images/sponsors/sponsors_types_ouro.png" style="width:38%" title="" alt=""> </td>
+  <td> <img src="{{site.baseurl}}/images/sponsors/sponsors_types_prata.png" style="width:36%" title="" alt=""> </td>
+  <td> <img src="{{site.baseurl}}/images/sponsors/sponsors_types_bronze.png" style="width:34%" title="" alt=""> </td>
 
+  </tr>
+    </tbody>
+</table>
 
 
 

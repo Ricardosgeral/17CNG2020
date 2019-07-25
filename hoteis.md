@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Acomodações/Hotéis
-group: Acomodações-Hotéis
+title: Alojamento em Lisboa 
+group: Alojamento
 
 ---
 
@@ -13,7 +13,7 @@ Existem hotéis com preços especiais acordados com o LNEC (veja as opções em 
 As reservas devem ser efetuadas diretamente com o hotel e devem referir sempre o acordo comercial com o LNEC. 
 
 Note que, por vezes, obtêm-se melhores condições através dos sites de reserva (por exemplo, [Trivago](https://www.trivago.pt/), [Momondo](https://www.momondo.pt), [Destinia](https://destinia.pt), [Booking](https://www.booking.com),...).
-
+<br>
 
 <div style="text-align: center;"> 
 <iframe src="https://docs.google.com/file/d/1N3hY_hD_bRPEM7YpzV3hPAKrMS0bYWWf/preview" width="70%" height="210px"></iframe>

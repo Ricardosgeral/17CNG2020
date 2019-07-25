@@ -79,15 +79,15 @@ menu:
     - name: Objetivos
       url:  /objectives-CLBG.html
       icon: fa-bullseye
-    - name: Apelo a comunicações
-      url:  /call-papers-CLBG.html
-      icon: fa-bullhorn
-    - name: Instruções para submissão
-      url:  /submission-CLBG.html
-      icon: fa-pencil
-    - name: Artigos aceites
-      url:  /accepted-papers-CLBG.html
-      icon: fa-check_sign
+#    - name: Apelo a comunicações
+#      url:  /call-papers-CLBG.html
+#      icon: fa-bullhorn
+#    - name: Instruções para submissão
+#      url:  /submission-CLBG.html
+#      icon: fa-pencil
+#    - name: Artigos aceites
+#      url:  /accepted-papers-CLBG.html
+#      icon: fa-check_sign
 - name: 10EJG
   url:  /jovens-geo.html
   icon: fa-graduation-cap
@@ -100,7 +100,7 @@ menu:
 - name: Prémio Teixeira Duarte
   icon: fa-trophy
   url: /premio-teixeira-duarte.html
-- name: Acomodações-Hotéis
+- name: Alojamento
   icon: fa-building-o
   url: /hoteis.html
 - name: Visitas técnicas
@@ -143,9 +143,9 @@ menu:
     - name: Comissão Organizadora
       url: /committie_org_CLBG.html
       icon: fa-users
-    - name: Comissão Científica
-      url: /committie_cientifica_CLBG.html
-      icon: fa-users
+#    - name: Comissão Científica
+#      url: /committie_cientifica_CLBG.html
+#      icon: fa-users
 #    - name: Comissão de Revisão
 #      url: /committie_revisao_CLBG.html
 #      icon: fa-users

@@ -4,10 +4,6 @@ title: Comissão organizadora do 10CLBG
 group: Comissões-10CLBG
 
 committees:
-  - role: Presidente
-    people:
-      - name: 
-        affiliation: 
 
   - role: Membros
     people:
