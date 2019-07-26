@@ -100,6 +100,15 @@ menu:
 - name: Prémio Teixeira Duarte
   icon: fa-trophy
   url: /premio-teixeira-duarte.html
+- name: Empresas
+  icon: fa-handshake-o
+  submenu:
+  - name: Patrocinadores
+    icon: fa-pencil
+    url: /supporters.html
+  - name: Expositores
+    icon: fa-eye
+    url: /stands.html
 - name: Alojamento
   icon: fa-building-o
   url: /hoteis.html
@@ -115,9 +124,6 @@ menu:
   - name: Banquete
     icon: fa-cutlery
     url: /banquet.html
-- name: Patrocinadores | Stands
-  url: /supporters.html
-  icon: fa-handshake-o
 - name: Comissões-17CNG
   icon: fa-users
   submenu:
