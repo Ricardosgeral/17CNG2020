@@ -2,7 +2,6 @@
 layout: default
 title: Programa para domingo
 group: Programa
-
 ---
 
 # {{page.title}}

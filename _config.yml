@@ -12,9 +12,10 @@ encoding: UTF-8
 
 plugins:
   - jekyll-assets
+  - jekyll-sitemap
 
 url: http://17cng2020.lnec.pt
-baseurl: /CNG
+baseurl:
 
 # Configuration for site
 title: "17cng2020"
@@ -45,16 +46,16 @@ menu:
     - name: Programa geral
       url: /program.html
       icon: fa-calendar
-    - name: 03/05, Domingo
+    - name: Domingo, 3 de maio
       url: /program_sunday.html
       icon: fa-calendar
-    - name: 04/05, Segunda
+    - name: Segunda, 4 de maio
       url: /program_monday.html
       icon: fa-calendar
-    - name: 05/05, Terça
+    - name: Terça, 5 de maio
       url: /program_tuesday.html
       icon: fa-calendar
-    - name: 06/05, Quarta
+    - name: Quarta, 6 de maio
       url: /program_wednesday.html
       icon: fa-calendar
 

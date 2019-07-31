@@ -39,7 +39,7 @@ papers-revisao:
 registration-earlybird:
   track: registration
   info_main: Data limite para incrição a preço reduzido
-  date: 2018, 31 de janeiro
+  date: 2020, 31 de janeiro
   important: true
 
 papers-entrega:
@@ -48,11 +48,11 @@ papers-entrega:
   date: 2020, 19 de janeiro
   important: true
 
-programa2:
-  track: flyer
-  info_main: Divulgação do 2º Boletim
-  date: 2019, 20 de dezembro
-  important: true
+#programa2:
+#  track: flyer
+#  info_main: Divulgação do 2º Boletim
+#  date: 2019, 20 de dezembro
+#  important: true
 
 resumos-aceitacao:
   track: main
@@ -69,5 +69,5 @@ resumos-entrega:
 progama1:
   track: flyer
   info_main: Divulgação do 1º Boletim
-  date: <del> 2019, 24 de julho </del>
+  date: <del> 2019, 26 de julho </del>
   important: true
