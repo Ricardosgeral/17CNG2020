@@ -171,9 +171,9 @@ menu:
   - name: Sobre Lisboa
     url: /getting_around.html
     icon: fa-compass
-- name: Contatos
+- name: Contactos
   url: /contacts.html
-  icon: fa-at
+  icon: fa-address-book
 
 
 colors:
