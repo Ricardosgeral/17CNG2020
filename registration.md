@@ -58,7 +58,7 @@ A data limite para inscrição a custo reduzido é **31 de janeiro 2020**.
   <!--Table body-->
 </table>
 <!--Table-->  
-<small>* Requer co comprovativo da condição de estudante.</small>
+<small>* Requer o comprovativo da condição de estudante.</small>
 
 
 NOTA: A participação no 11º Encontro de Jovens Geotécnicos (11EJG) é gratuita, mas também requer inscrição.

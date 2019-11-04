@@ -5,37 +5,29 @@ group: Contactos
 
 ---
 
-# {{ page.title }} - 17 CNG
+# {{ page.title }} - 17CNG
 
 ## Correspondência
 
-A correspondência deve ser dirigida para:
+*Comissão Organizadora do 17º Congresso Nacional de Geotecnia (17CNG)*
 
-*Comissão Organizadora do 17º Congresso Nacional de Geotecnia*
-A/C Secretariado do 17º Congresso Nacional de Geotecnia
-
-Avenida do Brasil, 101,	1700-066 Lisboa, Portugal
+<i class="fa fa-envelope" style="font-size:20px; padding: 0px 10px 0px 20px"> </i> <i>A/C Secretariado do 17CNG</i><br>
+<address style="padding: 0px 0px 0px 55px"> Avenida do Brasil, n. 101,<br>1700-066 Lisboa, Portugal<br>
+</address>
 
  
-## Informações
+## <i class="fa fa-info-circle"></i> Informações 
 
-### Secretariado do 17º Congresso Nacional de Geotecnia
+*Secretariado do 17CNG*
 
-Tel: + 351 21 844 38 59
+<address>
+<i class="fa fa-phone" style="font-size:25px; padding: 0px 10px 0px 20px"></i>   + 351 21 844 38 59<br> 
 
-*e-mail*: 17cng2020@lnec.pt
+<i class="fa fa-inbox" style="font-size:25px; padding: 0px 10px 0px 20px"></i>   17cng2020@lnec.pt
+</address>
 
+## Página da internet
 
-### Página da internet
 
 [17cng2020.lnec.pt](http://17cng2020.lnec.pt)
 
-
-
-
-  <br>
-  <br>
-  <p style="color: grey; font-size:0.8em"> {{ site.time | date: '%Y' }} Copyright {{ site.title }}
- | Ricardo Correia dos Santos, Creative Commons License, 
-  <a href="https://github.com/ricardosgeral/CNG" target="_blank"> Source </a>
-  </p>
