@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Contactos
-group: Contatos
+group: Contactos
 
 ---
 

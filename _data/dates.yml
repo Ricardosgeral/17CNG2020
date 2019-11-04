@@ -13,7 +13,7 @@
 
 congressos:
   track: main
-  info_main: 10EJG | 10CLBG | 17CNG
+  info_main: 11EJG | 10CLBG | 17CNG
   date: 2020, 3 | 4 | 5-6 de maio
   important: true
 
@@ -38,8 +38,8 @@ papers-revisao:
 
 registration-earlybird:
   track: registration
-  info_main: Data limite para incrição a preço reduzido
-  date: 2018, 31 de janeiro
+  info_main: Data limite para inscrição a preço reduzido
+  date: 2020, 31 de janeiro
   important: true
 
 papers-entrega:
@@ -48,11 +48,11 @@ papers-entrega:
   date: 2020, 19 de janeiro
   important: true
 
-programa2:
-  track: flyer
-  info_main: Divulgação do 2º Boletim
-  date: 2019, 20 de dezembro
-  important: true
+#programa2:
+#  track: flyer
+#  info_main: Divulgação do 2º Boletim
+#  date: 2019, 20 de dezembro
+#  important: true
 
 resumos-aceitacao:
   track: main
@@ -60,14 +60,20 @@ resumos-aceitacao:
   date: 2019, 30 de novembro
   important: true
 
+resumos-entrega1:
+  track: main
+  info_main: <span class="blink_text"><strong>(NOVA)</strong></span> Data limite para envio dos resumos
+  date: 2019, 22 de novembro
+  important: true
+
 resumos-entrega:
   track: main
-  info_main: Data limite para envio dos resumos
-  date: 2019, 31 de outubro
+  info_main:  Data limite para envio dos resumos
+  date: <del>2019, 31 de outubro</del>
   important: true
 
 progama1:
   track: flyer
   info_main: Divulgação do 1º Boletim
-  date: <del> 2019, 24 de julho </del>
+  date: <del> 2019, 26 de julho </del>
   important: true

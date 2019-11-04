@@ -1,6 +1,6 @@
 safe: false
 source: .
-destination: ./docs
+destination: ./_site
 plugins_dir: ./_plugins
 lsi: true
 highlighter: rouge
@@ -10,11 +10,12 @@ sass:
   style: compressed
 encoding: UTF-8
 
+
 plugins:
   - jekyll-assets
 
 url: http://17cng2020.lnec.pt
-baseurl: /CNG
+baseurl:
 
 # Configuration for site
 title: "17cng2020"
@@ -57,7 +58,6 @@ menu:
     - name: 06/05, Quarta
       url: /program_wednesday.html
       icon: fa-calendar
-
 - name: 17CNG
   icon: fa-briefcase
   submenu:
@@ -82,13 +82,13 @@ menu:
 #    - name: Apelo a comunicações
 #      url:  /call-papers-CLBG.html
 #      icon: fa-bullhorn
-#    - name: Instruções para submissão
-#      url:  /submission-CLBG.html
-#      icon: fa-pencil
-#    - name: Artigos aceites
-#      url:  /accepted-papers-CLBG.html
-#      icon: fa-check_sign
-- name: 10EJG
+    - name: Instruções para submissão
+      url:  /submission-CLBG.html
+      icon: fa-pencil
+    - name: Artigos aceites
+      url:  /accepted-papers-CLBG.html
+      icon: fa-check_sign
+- name: 11EJG
   url:  /jovens-geo.html
   icon: fa-graduation-cap
 - name: Inscrição
@@ -121,34 +121,34 @@ menu:
   - name: Receção
     icon: fa-glass
     url: /reception.html
-  - name: Banquete
+  - name: Banquetes
     icon: fa-cutlery
     url: /banquet.html
-- name: Comissões-17CNG
-  icon: fa-users
-  submenu:
-    - name: Comissão de Honra
-      url: /committie_honra_CNG.html
-      icon: fa-users
-    - name: Comissão de Acompanhamento
-      url: /committie_acomp_CNG.html
-      icon: fa-users
-    - name: Comissão Organizadora
-      url: /committie_org_CNG.html
-      icon: fa-users
-    - name: Comissão Científica
-      url: /committie_cientifica_CNG.html
-      icon: fa-users
+#- name: Comissões-17CNG
+#  icon: fa-users
+#  submenu:
+#    - name: Comissão de Honra
+#      url: /committie_honra_CNG.html
+#      icon: fa-users
+#    - name: Comissão de Acompanhamento
+#      url: /committie_acomp_CNG.html
+#      icon: fa-users
+#    - name: Comissão Organizadora
+#      url: /committie_org_CNG.html
+#      icon: fa-users
+#    - name: Comissão Científica
+#      url: /committie_cientifica_CNG.html
+#      icon: fa-users
 #    - name: Comissão de Revisão
 #      url: /committie_revisao_CNG.html
 #      icon: fa-users
 
-- name: Comissões-10CLBG
-  icon: fa-users
-  submenu:
-    - name: Comissão Organizadora
-      url: /committie_org_CLBG.html
-      icon: fa-users
+#- name: Comissões-10CLBG
+#  icon: fa-users
+#  submenu:
+#    - name: Comissão Organizadora
+#      url: /committie_org_CLBG.html
+#      icon: fa-users
 #    - name: Comissão Científica
 #      url: /committie_cientifica_CLBG.html
 #      icon: fa-users
@@ -170,7 +170,7 @@ menu:
   - name: Sobre Lisboa
     url: /getting_around.html
     icon: fa-compass
-- name: Contatos
+- name: Contactos
   url: /contacts.html
   icon: fa-at
 

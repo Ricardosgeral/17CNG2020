@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 10º Encontro de Jovens Geotécnicos 
-group: 10EJG
+title: 11º Encontro de Jovens Geotécnicos 
+group: 11EJG
 ---
 
 # {{page.title}}

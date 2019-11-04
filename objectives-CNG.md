@@ -12,7 +12,7 @@ O objetivo do 17CNG é promover a divulgação de conhecimento e o debate técni
 nomeadamente nas disciplinas da geologia de engenharia e da mecânica dos solos e das rochas, 
 em todas as atividades que a interessam, desde a investigação e ensino, 
 passando pelo projeto, construção, fiscalização, manutenção e exploração de obras, até à utilização de novas tecnologias. 
-O tema do Congresso será: **“A geo, as ciências e a tecnologia”**.
+O tema do Congresso será: **“A Geo, as ciências e a tecnologia”**.
 
 ## Temas
 O 17CNG discutirá um conjunto diversificado de temas, destacando-se os seguintes:

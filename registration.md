@@ -21,7 +21,6 @@ A inscrição no 17CNG e no 10CLBG é efetuada através do preenchimento de um f
 
 A data limite para inscrição a custo reduzido é **31 de janeiro 2020**.
 
-
 <!--Table-->
 <table id="tablePreview" class="table table-sm table-hover">
 <!--Table head-->
@@ -62,7 +61,9 @@ A data limite para inscrição a custo reduzido é **31 de janeiro 2020**.
 <small>* Requer co comprovativo da condição de estudante.</small>
 
 
+NOTA: A participação no 11º Encontro de Jovens Geotécnicos (11EJG) é gratuita, mas também requer inscrição.
 
+<br>
 
-[Inscrição 17CNG/10CLBG (em breve)](#){: data-role="button" class="button" style="width:90%;"}
+[Inscrição (em breve)](#){: data-role="button" class="button" style="width:70%;"}
 

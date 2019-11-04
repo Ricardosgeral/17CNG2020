@@ -61,7 +61,7 @@ enquanto que a [acciona](https://www.acciona-motosharing.com/pt/lisboa/) disponi
 </table>
 
 ## *Bike Sharing*
-A EMEL da Câmara Municipal de Lisboa gere a [Gira](https://www.gira-bicicletasdelisboa.pt/), que necessita de uma subscrição anual. 
+A EMEL da Câmara Municipal de Lisboa gere a [Gira](https://www.gira-bicicletasdelisboa.pt/), que necessita de uma subscrição anual(25 €), mensal (15€) ou diária (2€). 
 Já a empresa Uber disponibiliza a [JUMP](https://www.uber.com/us/en/ride/uber-bike/) que é mais adequada para utilização pontual. 
 
 <table class="table table-hover">
@@ -78,7 +78,7 @@ Já a empresa Uber disponibiliza a [JUMP](https://www.uber.com/us/en/ride/uber-b
 ## Trotinetes elétricas 
 
 Existem diversas empresas que disponibilizam trotinetes elétricas, reforçando o ecossistema da mobilidade partilhada e oferecem cada vez mais alternativas ao automóvel próprio.
-O custo de utilização é, tipicamente, de 0,5 euros (desbloqueio) + 0,15 euros/min.
+O custo de utilização é, tipicamente, de 0,5 euros (desbloqueio) + 0,15 euros/min. Alguns exemplos destas empresas.
 
 <table class="table table-hover">
   <tbody>
