@@ -16,7 +16,7 @@ registrations:
 ---
 
 # {{ page.title }}
-A inscrição no 17CNG e no 10CLBG é efetuada através do preenchimento de um formulário (a ser disponibilizado oportunamente).
+A inscrição no 17CNG e no 10CLBG é efetuada através do preenchimento de um [formulário online](https://forms.gle/1JQQHLNgG6odtqGc8).
 
 
 A data limite para inscrição a custo reduzido é **31 de janeiro 2020**.
@@ -65,5 +65,5 @@ NOTA: A participação no 11º Encontro de Jovens Geotécnicos (11EJG) é gratui
 
 <br>
 
-[Inscrição (em breve)](#){: data-role="button" class="button" style="width:70%;"}
+[Inscrição](https://forms.gle/1JQQHLNgG6odtqGc8){: data-role="button" class="button" style="width:70%;"}
 

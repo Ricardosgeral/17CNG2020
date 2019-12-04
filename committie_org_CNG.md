@@ -11,10 +11,6 @@ committees:
 
   - role: Membros
     people:
-      - name: Alexandre Pinto
-        affiliation: SPG, JETSJ, UL
-      - name: Ana Vieira
-        affiliation: SPG, LNEC
       - name: Andrea Brito
         affiliation: LNEC
       - name: António José Roque
@@ -24,7 +20,7 @@ committees:
       - name: Filipe Telmo Jeremias
         affiliation: LNEC
       - name: Francisco Fernandes
-        affiliation: UAç  
+        affiliation: LREC Açores  
       - name: Joana Carreto
         affiliation: LNEC
       - name: João Bilé Serra
@@ -60,8 +56,6 @@ committees:
     people:
       - name: João Bilé Serra
         affiliation: LNEC        
-
 ---
-<!--
- [Contatar a comissão organizadora](mailto:ricardos@lnec.pt,ricardos.geral@gmail.com?subject=[17CNG/10CLBG 2020]){: data-role="button" class="button" }
--->
+
+ [Contactar a comissão organizadora](mailto:17cng2020@lnec.pt?subject=[17CNG/10CLBG 2020]){: data-role="button" class="button" }

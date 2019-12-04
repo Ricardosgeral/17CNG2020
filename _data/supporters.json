@@ -1,9 +1,13 @@
 [
+  [800, "sponsors_types_diamond.png", "https://www.google.com/", "diamante1", 0, 220, 220,   "diamond"],
+
+  [400, "sponsors_types_platina.png", "https://www.google.com/", "platina1", 0, 220, 220,   "platinum"],
   [400, "sponsors_types_platina.png", "https://www.google.com/", "platina1", 0, 220, 220,   "platinum"],
   [400, "sponsors_types_platina.png", "https://www.google.com/", "platina1", 0, 220, 220,   "platinum"],
   [400, "sponsors_types_platina.png", "https://www.google.com/", "platina1", 0, 220, 220,   "platinum"],
 
   [200, "sponsors_types_ouro.png", "https://www.google.com/", "ouro1", 0, 220, 220,   "gold"],
+  [200, "sponsors_types_ouro.png", "https://www.google.com/", "ouro2", 0, 220, 220,   "gold"],
   [200, "sponsors_types_ouro.png", "https://www.google.com/", "ouro2", 0, 220, 220,   "gold"],
 
 

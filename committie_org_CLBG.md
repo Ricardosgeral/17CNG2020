@@ -1,6 +1,6 @@
 ---
 layout: committees
-title: Comissão organizadora do 10CLBG 
+title: Comissão Organizadora do 10CLBG 
 group: Comissões-10CLBG
 
 committees:
@@ -8,19 +8,19 @@ committees:
   - role: Membros
     people:
       - name: Manuel Matos Fernandes
-        affiliation: UPorto
-      - name: Laura Caldeira
-        affiliation: LNEC
-      - name: António José Roque
-        affiliation: LNEC
-      - name: Alexandre Pinto
-        affiliation: SPG, JETSJ, UL
+        affiliation: Presidente da SPG
       - name: Alexandre Duarte Gusmão
-        affiliation: Presidente ABMS           
+        affiliation: Presidente da ABMS        
+      - name: Laura Caldeira
+        affiliation: Presidente do 17CNG, LNEC, Portugal
       - name: Maurício Martinez Sales 
-        affiliation: Vice-presidente da ABMS                
+        affiliation: Vice-Presidente da ABMS         
+      - name: Alexandre Pinto
+        affiliation: Vice-Presidente da SPG           
       - name: Gustavo Ferreira Simões  
         affiliation: Secretário-geral da ABMS        
       - name: Alberto Sayão   
-        affiliation: ex-presidente da ABMS
+        affiliation: Ex-presidente da ABMS
+      - name: João Marcelino   
+        affiliation: LNEC, Portugal        
 ---

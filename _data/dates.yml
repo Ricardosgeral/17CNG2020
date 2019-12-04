@@ -62,8 +62,8 @@ resumos-aceitacao:
 
 resumos-entrega1:
   track: main
-  info_main: <span class="blink_text"><strong>(NOVA)</strong></span> Data limite para envio dos resumos
-  date: 2019, 22 de novembro
+  info_main: (Nova) Data limite para envio dos resumos
+  date: 2019, 15 de novembro
   important: true
 
 resumos-entrega:

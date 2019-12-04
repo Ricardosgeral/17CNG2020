@@ -26,5 +26,11 @@ Pode escolher um dos formatos disponibilizados:
 As comunicações enviadas pelos autores vão ser revistas por membros da comissão de revisão.  
 A notificação aos autores acerca da aceitação e de eventuais alterações ou de sugestões para melhoramento das comunicações será enviado até **21 de fevereiro de 2020**. 
   
+## Publicação dos artigos nas atas dos congressos
+**Cada inscrição dá direito à publicação de 2 artigos e cada artigo tem de ter pelo menos um autor inscrito.**
+
+Em casos excecionais, a aprovar pela comissão organizadora, poder-se-á publicar um artigo extra, mediante o pagamento de uma taxa adicional.
+
 ## Dúvidas adicionais
-Questões relacionadas com a submissão dos artigos deverão ser colocadas através do e-mail: 17cng2020@lnec.pt
+Questões relacionadas com a submissão e publicação dos artigos deverão ser colocadas através do e-mail: 17cng2020@lnec.pt
+

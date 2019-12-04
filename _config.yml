@@ -89,6 +89,9 @@ menu:
     - name: Artigos aceites
       url:  /accepted-papers-CLBG.html
       icon: fa-check_sign
+- name: VII Lição Victor de Mello
+  url:  /licao-victor-mello.html
+  icon: fa-university
 - name: 11EJG
   url:  /jovens-geo.html
   icon: fa-graduation-cap
@@ -125,43 +128,33 @@ menu:
   - name: Banquetes
     icon: fa-cutlery
     url: /banquet.html
-#- name: Comissões-17CNG
-#  icon: fa-users
-#  submenu:
-#    - name: Comissão de Honra
-#      url: /committie_honra_CNG.html
-#      icon: fa-users
-#    - name: Comissão de Acompanhamento
-#      url: /committie_acomp_CNG.html
-#      icon: fa-users
-#    - name: Comissão Organizadora
-#      url: /committie_org_CNG.html
-#      icon: fa-users
-#    - name: Comissão Científica
-#      url: /committie_cientifica_CNG.html
-#      icon: fa-users
-#    - name: Comissão de Revisão
-#      url: /committie_revisao_CNG.html
-#      icon: fa-users
-
-#- name: Comissões-10CLBG
-#  icon: fa-users
-#  submenu:
-#    - name: Comissão Organizadora
-#      url: /committie_org_CLBG.html
-#      icon: fa-users
-#    - name: Comissão Científica
-#      url: /committie_cientifica_CLBG.html
-#      icon: fa-users
-#    - name: Comissão de Revisão
-#      url: /committie_revisao_CLBG.html
-#      icon: fa-users
-
-
+- name: Comissões-17CNG
+  icon: fa-users
+  submenu:
+    - name: Comissão de Honra
+      url: /committie_honra_CNG.html
+      icon: fa-users
+    - name: Comissão de Acompanhamento
+      url: /committie_acomp_CNG.html
+      icon: fa-users
+    - name: Comissão Organizadora
+      url: /committie_org_CNG.html
+      icon: fa-users
+    - name: Comissão Científica
+      url: /committie_cientifica_CNG.html
+      icon: fa-users
+- name: Comissões-10CLBG
+  icon: fa-users
+  submenu:
+    - name: Comissão Organizadora
+      url: /committie_org_CLBG.html
+      icon: fa-users
+    - name: Comissão Científica
+      url: /committie_cientifica_CLBG.html
+      icon: fa-users
 - name: Informações úteis
   icon:  fa-map-pin
   submenu:
-
   - name: Chegar ao LNEC
     url: /getting_LNEC.html
     icon: fa-car
