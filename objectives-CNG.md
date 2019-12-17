@@ -21,10 +21,10 @@ O 17CNG discutirá um conjunto diversificado de temas, destacando-se os seguinte
 - Fundações, escavações, taludes e obras subterrâneas
 - Tratamento e reforço de maciços
 - Barragens
-- Geotecnia dos transportes
+- Geotecnia nos transportes
 - Reabilitação
 - Sustentabilidade
-- Tecnologias de informação
+- Tecnologias de informação e de apoio à construção
 - Risco
 
 
