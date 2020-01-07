@@ -77,13 +77,13 @@ committees:
         affiliation: UC
       - name: Jorge Sousa Cruz
         affiliation: LSW Consult
-      - name: Jorge Vasquez ()
+      - name: Jorge Vasquez
         affiliation: EDIA
       - name: Jorge Quelhas
         affiliation: Metro do Porto
       - name: José Couto Marques
         affiliation: UP
-      - name: José Delgado Muralha
+      - name: José Muralha
         affiliation: LNEC
       - name: José Luiz Antunes
         affiliation: SPG, Keller

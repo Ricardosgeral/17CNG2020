@@ -30,7 +30,7 @@ committees:
       - name: Jorge Almeida e Sousa
         affiliation: UC
       - name: José Mateus de Brito
-        affiliation: 
+        affiliation: TPF PLANEGE CENOR 
       - name: José Vieira Lemos
         affiliation: LNEC
       - name: Leonardo de Bona Becker

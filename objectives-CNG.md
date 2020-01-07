@@ -6,7 +6,7 @@ group: 17CNG
 
 # {{page.title}}
 
-## Objectivos
+## Objetivos
 
 O objetivo do 17CNG é promover a divulgação de conhecimento e o debate técnico e científico no domínio da geotecnia, 
 nomeadamente nas disciplinas da geologia de engenharia e da mecânica dos solos e das rochas, 
