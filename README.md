@@ -11,7 +11,7 @@ The website uses jekyll engine to generate the website using the templates.  To 
     bundle exec jekyll build
 
 To generate the website and serve it from a local webserver, e.g., for debugging
-
+ 
     bundle exec jekyll serve
 
 ## Overview
