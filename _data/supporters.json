@@ -1,14 +1,6 @@
 [
-  [800, "sponsors_types_diamond.png", "https://www.google.com/", "diamante1", 0, 220, 220,   "diamond"],
-
-  [400, "sponsors_types_platina.png", "https://www.google.com/", "platina1", 0, 220, 220,   "platinum"],
-
-  [200, "sponsors_types_ouro.png", "https://www.google.com/", "ouro1", 0, 220, 220,   "gold"],
 
   [100, "TPF_Logo_Artefinal_V01_4Color.jpg", "https://www.tpf.pt/", "TPF", 0, 220, 220,   "silver"],
-  [100, "sponsors_types_prata.png", "https://www.google.com/", "prata2", 0, 220, 220,   "silver"],
 
-
-  [50, "Logo_JETsj.png", "https://jetsj.com/", "JetSJ", 0, 220, 220,   "bronze"],
-  [50, "sponsors_types_bronze.png", "https://www.google.com", "Bronze2", 0, 150, 150,   "bronze"]
+  [50, "Logo_JETsj.png", "https://jetsj.com/", "JetSJ", 0, 220, 220,   "bronze"]
 ]

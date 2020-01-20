@@ -26,7 +26,7 @@ A área da exibição vai estar localizada junto aos pontos de encontro onde tam
 <table class="table">
   <tbody>
     <tr>
-      <td align="center"> <img src="{{site.baseurl}}/images/salas/room_planta-standv1.png" style="width:95%; max-width:800px" title="" alt=""> </td>
+      <td align="center"> <img src="{{site.baseurl}}/images/salas/room_planta-stand.png" style="width:95%; max-width:800px" title="" alt=""> </td>
     </tr> 
   </tbody>
 </table>

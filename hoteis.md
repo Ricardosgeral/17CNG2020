@@ -9,12 +9,72 @@ group: Alojamento
 
 ## Hotéis em Lisboa com acordo com o LNEC
 
-Existem hotéis com preços especiais acordados com o LNEC (veja as opções em baixo), para visitantes e participantes em diferentes eventos organizados pelo LNEC. 
-As reservas devem ser efetuadas diretamente com o hotel e devem referir sempre o acordo comercial com o LNEC. 
+Existem hotéis com preços especiais acordados com o LNEC, para visitantes e participantes em diferentes eventos organizados pelo LNEC. 
+As reservas devem ser efetuadas diretamente com o hotel e devem referir sempre o acordo comercial com o LNEC. Alguns exemplos:
 
-<div style="text-align: center;"> 
-<iframe src="https://docs.google.com/file/d/1N3hY_hD_bRPEM7YpzV3hPAKrMS0bYWWf/preview" width="70%" height="350px"></iframe>
-</div>
+-----
+
+ - **Hotéis 5***
+
+    - [**ALTIS AVENIDA HOTEL**](www.altishotels.com)
+centro histórico, a 30 min. do LNEC. 
+Metro: Restauradores
+
+    - [**ALTIS GRAND HOTEL**](www.altishotels.com)
+centro da cidade, a 30 min. do LNEC. 
+Metro: Marquês de Pombal 
+
+    - [**VIP GRAND LISBOA HOTEL & SPA**](www.viphotels.com)
+Entrecampos, a 20 min. do LNEC. 
+Metro: Entrecampos
+
+    - [**SOFITEL LISBON LIBERDADE**](www.sofitel.com)
+centro da cidade, a 30 min. do LNEC. 
+Metro: Avenida
+
+
+-----
+
+ - **Hotéis 4***
+
+    - [**ALTIS PRIME**](www.altishotels.com)
+centro da cidade, a 30 min. do LNEC. 
+Metro: Marquês de Pombal
+
+    - [**HOLIDAY INN LISBON - CONTINENTAL**](www.ihg.com)
+Campo Pequeno, a 15 min. do LNEC. 
+Metro: Campo Pequeno
+
+    - [**LUTÉCIA HOTEL**](www.luteciahotel.com)
+Alvalade, a 15 min. do LNEC. 
+Metro: Roma
+
+    - [**VIP EXECUTIVE SALDANHA**](www.viphotels.com)
+Saldanha, a 20 min. do LNEC. 
+Metro: Saldanha
+
+-----
+
+ - **Hotéis 3***
+
+    - [**HOTEL ALIF**](www.alifhotels.com/)
+Campo Pequeno, a 20 min. do LNEC. 
+Metro: Campo Pequeno
+
+
+    - [**HOTEL ROMA**](www.hotelroma.pt)
+Alvalade, a 15 min. do LNEC. 
+Metro: Roma
+
+    - [**VIP EXECUTIVE ZURIQUE**](www.viphotels.com)
+Campo Pequeno, a 20 min. do LNEC.
+Metro: Campo Pequeno
+
+    - [**VIP INN BERNA**](www.viphotels.com)
+Campo Pequeno, a 20 min. do LNEC. 
+Metro / Subway: Campo Pequeno
+
+-----
 
 Note que, por vezes, obtêm-se melhores condições através dos sites de reserva (por exemplo, [Trivago](https://www.trivago.pt/), [Momondo](https://www.momondo.pt), [Destinia](https://destinia.pt), [Booking](https://www.booking.com),...).
 
