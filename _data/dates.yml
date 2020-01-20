@@ -42,10 +42,17 @@ registration-earlybird:
   date: 2020, 31 de janeiro
   important: true
 
+
+papers-entrega1:
+  track: main
+  info_main: <span class="blink_text"> <strong>(Nova) </strong> </span> Data limite para submissão das comunicações
+  date: 2020, 31 de janeiro
+  important: true
+
 papers-entrega:
   track: main
   info_main: Data limite para submissão das comunicações
-  date: 2020, 19 de janeiro
+  date: <del>2020, 19 de janeiro</del>
   important: true
 
 #programa2:
@@ -57,13 +64,13 @@ papers-entrega:
 resumos-aceitacao:
   track: main
   info_main: Informação sobre a aceitação dos resumos
-  date: 2019, 30 de novembro
+  date: <del>2019, 30 de novembro</del>
   important: true
 
 resumos-entrega1:
   track: main
   info_main: (Nova) Data limite para envio dos resumos
-  date: 2019, 15 de novembro
+  date: </del>2019, 15 de novembro</del>
   important: true
 
 resumos-entrega:
