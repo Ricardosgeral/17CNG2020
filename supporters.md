@@ -11,7 +11,7 @@ group: Empresas
 ## Patrocinadores até à data
 
 
-<p>
+
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
 ### Diamante
@@ -30,11 +30,11 @@ group: Empresas
 </div>
 </div>
 </div>
-</p>
 
 
 
-<p>
+
+
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
 ### Platina (6000 Euros)
@@ -54,10 +54,10 @@ group: Empresas
 </div>
 </div>
 
-</p>
 
 
-<p>
+
+
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
 ### Ouro (4000 Euros)
@@ -76,11 +76,11 @@ group: Empresas
 </div>
 </div>
 
-</p>
+
 
 <!-- Current Sponsors: -->
 
-<p>
+
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
 
@@ -103,11 +103,11 @@ group: Empresas
 </div>
 </div>
 
-</p>
+
 
 <!-- Current Sponsors: -->
 
-<p>
+
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
 
@@ -128,7 +128,7 @@ group: Empresas
 </div>
 </div>
 
-</p>
+
 
 
 ## Tipos de Patrocínio
