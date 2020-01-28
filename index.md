@@ -102,7 +102,6 @@ Os dias das sessões incluirão almoço a que acresce a realização de outros e
 
 {% include news.html %}
 
-
 {% comment %}
 ## <i class="fa fa-calendar-o"></i> Calendar
 

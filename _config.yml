@@ -164,6 +164,9 @@ menu:
   - name: Sobre Lisboa
     url: /getting_around.html
     icon: fa-compass
+- name: Aplicação Android/iOS
+  url: /mobileApp.html
+  icon: fa-android
 - name: Contactos
   url: /contacts.html
   icon: fa-address-book
