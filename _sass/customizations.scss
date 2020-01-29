@@ -912,7 +912,9 @@ red {
 //ricardo added
 
 .social-icons {
-    text-align: center;
+    text-align: left;
+    list-style: none;
+    padding-left: 0;
 }
 .social-icons li {
     display:inline-block;
