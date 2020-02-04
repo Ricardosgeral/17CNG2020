@@ -113,6 +113,7 @@ Apenas algumas sugestões:
 
 - Adega Solar Minhoto ([junto ao LNEC](https://www.google.com/search?q=Adega+Solar+Minhoto&rlz=1C1GCEU_en&oq=adega+solar+minhoto&aqs=chrome.0.69i59.4023j0j4&sourceid=chrome&ie=UTF-8))
 - Monte Evarest, Restaurante Nepalês ([junto ao LNEC](https://www.zomato.com/grande-lisboa/everest-montanha-1-alvalade-lisboa))
+- Soão, Taberna Asiática ([10 minutos a pé do LNEC](https://www.soao.pt/en/))
 - Pão à mesa, com certeza ([Príncipe Real](https://www.google.com/search?q=P%C3%A3o+%C3%A0+mesa%2C+com+certeza&rlz=1C1GCEU_en&oq=P%C3%A3o+%C3%A0+mesa%2C+com+certeza&aqs=chrome..69i57.250j0j4&sourceid=chrome&ie=UTF-8))
 - Clube Lisboeta ([Príncipe Real](https://www.google.com/search?rlz=1C1GCEU_en&ei=qUk4XYSdE7iBjLsPq9Ki8AQ&q=clube+lisboeta&oq=Clube+Lisboe&gs_l=psy-ab.3.0.0j0i203l2j0l6.24140.26875..28168...0.0..0.93.813.12......0....1..gws-wiz.......0i71j35i39j0i67j0i131j0i131i67j0i10.RUQbM4iqEI0))
 - Wine Room ([Belém](https://www.google.com/search?rlz=1C1GCEU_en&ei=00k4XaulMYibjLsPiZaPwAc&q=wine+room+lisboa&oq=wine+room&gs_l=psy-ab.3.0.0i203l4j0l2j0i203j0l2j0i203.23653.25732..27678...0.0..0.135.767.7j2......0....1..gws-wiz.......0i71j35i39j0i131j0i67.OM7jNlUpin4))
