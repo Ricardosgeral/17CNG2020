@@ -5,7 +5,7 @@ group: Informações úteis
 
 ---
 
-## Mobile App Privacy Policy
+## Site Privacy Policy
 
 Sociedade Portuguesa de Geotecnia - SPG built the 17cng2020 app as a Free app. This SERVICE is provided by Sociedade Portuguesa de Geotecnia - SPG at no cost and is intended for use as is.
 

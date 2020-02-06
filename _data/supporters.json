@@ -1,9 +1,10 @@
 [
-  [200, "Logo_Mota-Engil.png", "http://www.mota-engil.com/", "Mota-Engil", 0, 220, 220,   "silver"],
-  [200, "Logo_EDP.png", "https://www.edp.pt/particulares/", "EDP", 0, 220, 220,   "silver"],
   [200, "TPF_Logo_Artefinal_V01_4Color.jpg", "https://www.tpf.pt/", "TPF", 0, 220, 220,   "silver"],
+  [200, "Logo_EDP.png", "https://www.edp.pt/particulares/", "EDP", 0, 220, 220,   "silver"],
+  [200, "Logo_LECA.png", "https://www.leca.pt", "LECA", 0, 220, 220,   "silver"],
 
+
+  [50, "Logo_JETsj.png", "https://jetsj.com/", "JetSJ", 0, 220, 220,   "bronze"],
   [50, "Logo_Elsamex-Portugal.png", "http://www.elsamex.pt/", "ELSAMEX", 0, 220, 220,   "bronze"],
-  [50, "Logo_JETsj.png", "https://jetsj.com/", "JetSJ", 0, 220, 220,   "bronze"]
-
+  [50, "Logo_ME-ENGENHARIA.jpg", "http://engenharia.mota-engil.pt/", "Mota-Engil", 0, 220, 220,   "bronze"]
 ]

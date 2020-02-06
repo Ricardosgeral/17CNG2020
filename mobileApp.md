@@ -6,7 +6,7 @@ group: Aplicação Android/iOS
 
 # {{ page.title }}
 
-Oportunamente, vai ser disponibilizada uma aplicação móvel (para *smartphone* e *tablet*) com a programação do **17cng2020**, 
+Oportunamente, vai ser disponibilizada uma aplicação móvel (para *smartphone* e *tablet*) com o [**programa do 17cng2020**]({{site.baseurl}}/program.html), 
 para que possa tirar o máximo proveito do evento.
 
 <!--- Descarregue e confira! -->
@@ -32,7 +32,7 @@ para que possa tirar o máximo proveito do evento.
 </table>
   Esta ferramenta tem várias funcionalidades que lhe permitem: 
   
- - Explorar o **Programa** atualizado, os **resumos** das comunicações, a lista de **Autores** bem como as suas afiliações e a biografia dos palestrantes convidados
+ - Explorar o horário atualizado do **Programa**, os **resumos** das comunicações, a lista de **Autores** bem como as suas afiliações e a biografia dos palestrantes convidados
 
  - Orientar-se melhor entre as **Salas** onde vão decorrer as várias apresentações
  
