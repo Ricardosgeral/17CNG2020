@@ -26,7 +26,7 @@ A área da exibição vai estar localizada junto aos pontos de encontro onde tam
 <table class="table">
   <tbody>
     <tr>
-      <td align="center"> <img src="{{site.baseurl}}/images/salas/room_planta-stand.png" style="width:95%; max-width:800px" title="" alt=""> </td>
+      <td align="center"> <img src="{{site.baseurl}}/images/salas/rooms_planta-stand.png" style="width:95%; max-width:800px" title="" alt=""> </td>
     </tr> 
   </tbody>
 </table>
@@ -58,3 +58,36 @@ Cada expositor é responsável por danos no seu *stand*, assim como pela seguran
 <br>
 
 [FICHA DE INSCRIÇÃO PARA *STAND* DE EXPOSIÇÃO](https://drive.google.com/open?id=1-WVkLcDK4QMYGTCvtoUCytYKiAHYehB-){: data-role="button" class="button" style="width:70%;"}
+
+<br>
+
+## Empresas já representadas
+
+<table class="table table-hover">
+  <tbody>
+  <tr> 
+  <td> <strong><i>Stand</i> 2: </strong><a href="https://www.geoarea.pt"> <img src="{{site.baseurl}}/images/sponsors/Logo_Geoarea.png" style="height:55px" title="Geoárea" alt="Geoárea"> </a> </td>
+  </tr>
+  <tr>
+  <td> <strong><i>Stand</i> 3: </strong><a href="https://jetsj.com/"> <img src="{{site.baseurl}}/images/sponsors/Logo_JETsj.png" style="height:55px" title="JETsj" alt="JETsj"> </a> </td>
+  </tr>
+  <tr>
+  <td> <strong><i>Stand</i> 4: </strong><a href="https://www.teixeiraduarte.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_Teixeiraduarte.png" style="height:45px" title="Teixeira Duarte" alt="Teixeira Duarte"> </a> </td>
+  </tr>
+  <tr>
+  <td> <strong><i>Stand</i> 5: </strong><a href="https://www.bianchini.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_BIANCHINI.png" style="height:55px" title="BIANCHINI" alt="BIANCHINI"> </a> </td>
+  </tr>
+  <tr>
+  <td> <strong><i>Stand</i> 7: </strong><a href="https://www.leca.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_LECA.png" style="height:50px" title="Leca" alt="Leca"> </a> </td>
+  </tr>
+  <tr>
+  <td> <strong><i>Stand</i> 8: </strong><a href="https://www.tecnilab.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_Tecnilab.png" style="height:55px" title="Tecnilab" alt="Tecnilab"> </a> </td>
+  </tr>
+  <tr>
+  <td> <strong><i>Stand</i> 9: </strong><a href="https://www.tpf.pt/"> <img src="{{site.baseurl}}/images/sponsors/TPF_Logo_Artefinal_V01_4Color.jpg" style="height:55px" title="TPF" alt="TPF"> </a> </td>
+  </tr>
+  <tr>
+  <td> <strong><i>Stand</i> 11: </strong><a href="https://www.geocontrole.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_Geocontrolo.png" style="height:55px" title="Geocontrolo" alt="Geocontrolo"> </a> </td>
+  </tr>
+  </tbody>
+</table>
