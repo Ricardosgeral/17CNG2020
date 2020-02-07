@@ -36,17 +36,16 @@ papers-revisao:
   date: 2020, 21 de fevereiro
   important: true
 
-registration-earlybird:
-  track: registration
-  info_main: Data limite para inscrição a preço reduzido
-  date: 2020, 31 de janeiro
-  important: true
-
-
 papers-entrega1:
   track: main
   info_main: <span class="blink_text"> <strong>(Nova) </strong> </span> Data limite para submissão das comunicações
   date: 2020, 31 de janeiro
+  important: true
+
+registration-earlybird:
+  track: registration
+  info_main: Data limite para inscrição a preço reduzido
+  date: <del>2020, 31 de janeiro</del>
   important: true
 
 papers-entrega:
@@ -55,11 +54,11 @@ papers-entrega:
   date: <del>2020, 19 de janeiro</del>
   important: true
 
-#programa2:
-#  track: flyer
-#  info_main: Divulgação do 2º Boletim
-#  date: 2019, 20 de dezembro
-#  important: true
+programa2:
+  track: flyer
+  info_main: Divulgação do 2º Boletim</del>
+  date: <del>2020, 15 de janeiro</del>
+  important: true
 
 resumos-aceitacao:
   track: main
@@ -70,7 +69,7 @@ resumos-aceitacao:
 resumos-entrega1:
   track: main
   info_main: (Nova) Data limite para envio dos resumos
-  date: </del>2019, 15 de novembro</del>
+  date: <del>2019, 15 de novembro</del>
   important: true
 
 resumos-entrega:

@@ -1,4 +1,7 @@
 #!/bin/bash
+
+# Não uso //Ricardo
+
 echo "set ssl:verify-certificate no" > /home/lele/.lftp/rc
 HOST="ftp.sigcommconfs.hosting.acm.org"
 USER="sigcomm-2018@sigcommconfs.hosting.acm.org"

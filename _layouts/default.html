@@ -3,22 +3,25 @@ layout: compressed
 ---
 
 <html>
-  <head>
-    <!--privacy-policy cookies visit osano.com-->
-    <script src="https://cmp.osano.com/Azyw2bRpipz13bL8/a3014303-b9f5-490e-b477-abc999323396/osano.js"></script>
+<head>
+    <!--privacy-policy cookies visit https://www.osano.com/cookieconsent/download/-->
+    <script src="https://cmp.osano.com/Azyw2bRpipz13bL8/1558f4cf-a990-4ec3-9bea-da79946806f2/osano.js"></script>
+
 
     <meta charset="utf-8">
-    <meta property="og:title" content="{% if page.title and page.title != '' %}{{ page.title }} - {% endif %}{{ site.title }}" />
-    <meta property="og:image" content="{{ site.url }}" />
-    <meta property="og:url" content="{{ page.url }}" />
+    <meta property="og:title"
+          content="{% if page.title and page.title != '' %}{{ page.title }} - {% endif %}{{ site.title }}"/>
+    <meta property="og:image" content="{{ site.url }}"/>
+    <meta property="og:url" content="{{ page.url }}"/>
     {% for og in page.og_tags %}
-    <meta property="{{ og.property }}" content="{{ og.content }}" />
+    <meta property="{{ og.property }}" content="{{ og.content }}"/>
     {% endfor %}
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-    <meta name="apple-mobile-web-app-capable" content="yes" />
-    <meta name="apple-mobile-web-app-status-bar-style" content="black" />
-    <meta name="copyright" content="The CNG Website is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Based on the ACM SIGCOMM 2017 web site available at https://github.com/cawka/SIGCOMM2017" />
+    <meta name="apple-mobile-web-app-capable" content="yes"/>
+    <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+    <meta name="copyright"
+          content="The CNG Website is licensed under a Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License. Based on the ACM SIGCOMM 2017 web site available at https://github.com/cawka/SIGCOMM2017"/>
 
     <title>{% if page.title and page.title != "" %}{{ page.title }} - {% endif %}{{ site.title }}</title>
 
@@ -52,52 +55,50 @@ layout: compressed
     <script>$.mobile || document.write('<script src="{{ site.baseurl }}/js/jquery.mobile-1.4.5.min.js"><\/script>')</script>
 
     <script src="{{ site.baseurl }}/js/jqm-docs.js"></script>
-      <!-- <script src="{{ site.baseurl }}/js/js-image-slider.js"></script> -->
+    <!-- <script src="{{ site.baseurl }}/js/js-image-slider.js"></script> -->
 
     <script src="{{ site.baseurl }}/js/script.js" type="text/javascript"></script>
 
-  </head>
+</head>
 
-  <body>
+<body>
 
 
-    <div data-role="page" data-theme="a" class="main-page">
+<div data-role="page" data-theme="a" class="main-page">
 
-      <div class="header" data-role="header" data-theme="a" data-position="inline">
+    <div class="header" data-role="header" data-theme="a" data-position="inline">
         <div>
-          <a href="{{ site.baseurl }}/index.html"><img src="{{ site.baseurl }}/{{ site.logo.image }}" alt="{{ site.logo.info }}"></a>
+            <a href="{{ site.baseurl }}/index.html"><img src="{{ site.baseurl }}/{{ site.logo.image }}"
+                                                         alt="{{ site.logo.info }}"></a>
         </div>
-        <a href="#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.leftnav').position().top)" id="menu-btn" class="ui-btn-right" data-corners="true" data-icon="grid">MENU</a>
-      </div>
-      <div data-role="content" class="ui-content">
+        <a href="#" onclick="$.mobile.silentScroll($.mobile.activePage.find('.leftnav').position().top)" id="menu-btn"
+           class="ui-btn-right" data-corners="true" data-icon="grid">MENU</a>
+    </div>
+    <div data-role="content" class="ui-content">
         <div class="content-primary">
-          {{ content }}
+            {{ content }}
         </div><!-- content-primary -->
 
         {% include menu.html %}
-      </div> <!-- content -->
-
-
-      {% if page.url != "/supporters.html" %}
-        <div class="logobar" data-role="footer" data-position="fixed" data-tap-toggle="false" data-theme="c"></div>
-      {% endif %}
-
-
-
-    </div> <!-- page -->
-
+    </div> <!-- content -->
 
 
     {% if page.url != "/supporters.html" %}
-      {% include supporters.html %}
+    <div class="logobar" data-role="footer" data-position="fixed" data-tap-toggle="false" data-theme="c"></div>
     {% endif %}
 
-    {% include google-analytics.html %}
+
+</div> <!-- page -->
 
 
-  </body>
+{% if page.url != "/supporters.html" %}
+{% include supporters.html %}
+{% endif %}
+
+{% include google-analytics.html %}
 
 
+</body>
 
 
 </html>

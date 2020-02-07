@@ -931,6 +931,16 @@ red {
     margin-right: 0px;
 }
 
+// para mover o simbolo do cookie para cima dos patrocinadores. É nessessário colocar script no head de _layouts/default
+
+.osano-cm-widget {
+    opacity:40%;
+    width: 30px;
+    height: 30px;
+    right: 3px;
+    bottom: 80px;
+}
+
 
 
 
