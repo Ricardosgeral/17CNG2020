@@ -1,4 +1,4 @@
-// Misc helper scripts for the SIGCOMM web
+// Misc helper scripts for the CNG web
 
 var lcnt;
 var sps;
@@ -6,7 +6,6 @@ var sps;
 // how many news item do we want without clicking on the Older news
 var slice_num_info=5;
 var slice_num_dates=8;
-
 
 
 $(document).on("pagebeforeshow", function() {

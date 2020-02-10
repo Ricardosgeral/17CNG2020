@@ -75,7 +75,7 @@ Cada expositor é responsável por danos no seu *stand*, assim como pela seguran
   <td> <strong><i>Stand</i> 4: </strong><a href="https://www.teixeiraduarte.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_Teixeiraduarte.png" style="height:45px" title="Teixeira Duarte" alt="Teixeira Duarte"> </a> </td>
   </tr>
   <tr>
-  <td> <strong><i>Stand</i> 5: </strong><a href="https://www.bianchini.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_BIANCHINI.png" style="height:55px" title="BIANCHINI" alt="BIANCHINI"> </a> </td>
+  <td> <strong><i>Stand</i> 5: </strong><a href="https://www.abianchini.es/pt"> <img src="{{site.baseurl}}/images/sponsors/Logo_BIANCHINI.png" style="height:55px" title="BIANCHINI" alt="BIANCHINI"> </a> </td>
   </tr>
   <tr>
   <td> <strong><i>Stand</i> 7: </strong><a href="https://www.leca.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_LECA.png" style="height:50px" title="Leca" alt="Leca"> </a> </td>
