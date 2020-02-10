@@ -65,8 +65,13 @@ A inscrição no 17CNG e no 10CLBG é efetuada através do preenchimento do Form
 
 
 **Notas**:
- - A participação no 11º Encontro de Jovens Geotécnicos (11EJG) é gratuita, mas também requer inscrição.
+ - A participação no 11º Encontro de Jovens Geotécnicos (11EJG) é gratuita, mas requer inscrição.
  - A data limite para inscrição a custo reduzido é **31 de janeiro 2020**.
+ - O valor da inscrição no 17CNG INCLUI o jantar no dia 5 de maio de 2020.
+ - A participação no jantar do 10CLBG, no dia 4 de maio de 2020, tem custos acrescidos em relação ao valor da inscrição.
+ - Os detalhes sobre os locais e os custos (do jantar do 10CLBG e de acompanhantes) vão ser divulgados oportunamente.
+ - O valor da inscrição inclui o almoço nos dias 4 e 5 de maio de 2020 e as atas dos congressos em formato digital.
+ 
 <br>
 
 
