@@ -15,14 +15,14 @@ para que possa tirar o máximo proveito do evento.
 
   <thead>
     <tr>
-      <td align="center">  <strong> Android (5+) </strong></td>
+      <td align="center">  <strong> Android (4.2+) </strong></td>
       <td align="center"> <strong> iOS (8+) </strong></td>    
     </tr>
   </thead>
   <tbody>
     <tr >
       <td align="center"><img src="{{site.baseurl}}/images/mobApp/android.png" style="width:80%; max-width: 200px; height: auto" title="Android" alt="Android"> </td>
-      <td align="center"><img src="{{site.baseurl}}/images/mobApp/apple_iOS.png"     style="width:80%; max-width: 250px; height: auto" title="iOS"     alt="iOS">     </td>
+      <td align="center"><img src="{{site.baseurl}}/images/mobApp/apple_iOS.png"     style="width:77%; max-width: 250px; height: auto" title="iOS"     alt="iOS">     </td>
     </tr>
     <tr>
       <td align="center">  <a href="https://play.google.com/store/apps"><img src="{{site.baseurl}}/images/mobApp/googleplay.png" style="width:89%; max-width: 250px; height: auto" title="Google Play" alt="Google Play"> </a></td>
