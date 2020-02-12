@@ -45,7 +45,7 @@ A inscrição no 17CNG e no 10CLBG é efetuada através do preenchimento do Form
     <tr>
       <th scope="row">Sócios da ABMS/ABGE</th>
       <td>150 Euros</td>
-      <td>200 Euros</td>
+      <td>150 Euros</td>
     </tr>
     <tr>
       <th scope="row">Não sócios</th>

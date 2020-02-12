@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Aplicação Android/iOS 
+title: Aplicação *Android* & *iOS*
 group: Aplicação Android/iOS
 ---
 
@@ -21,22 +21,21 @@ para que possa tirar o máximo proveito do evento.
   </thead>
   <tbody>
     <tr >
-      <td align="center"><img src="{{site.baseurl}}/images/mobApp/android.png" style="width:80%; max-width: 200px; height: auto" title="Android" alt="Android"> </td>
-      <td align="center"><img src="{{site.baseurl}}/images/mobApp/apple_iOS.png"     style="width:77%; max-width: 250px; height: auto" title="iOS"     alt="iOS">     </td>
+      <td align="center"><img src="{{site.baseurl}}/images/mobApp/android.png" style="width:75%; max-width: 200px; height: auto" title="Android" alt="Android"> </td>
+      <td align="center"><img src="{{site.baseurl}}/images/mobApp/apple_iOS.png"     style="width:95%; max-width: 270px; height: auto" title="iOS"     alt="iOS">     </td>
     </tr>
     <tr>
       <td align="center">  <a href="https://play.google.com/store/apps"><img src="{{site.baseurl}}/images/mobApp/googleplay.png" style="width:89%; max-width: 250px; height: auto" title="Google Play" alt="Google Play"> </a></td>
-      <td align="center">  <a href="https://apps.apple.com"><img  src="{{site.baseurl}}/images/mobApp/appstore.png" style="width:80%; max-width: 250px; height: auto" title="App Store" alt="App Store"> </a></td>
+      <td align="center">  <a href="https://apps.apple.com"><img  src="{{site.baseurl}}/images/mobApp/appstore.png" style="width:80%; max-width: 230px; height: auto" title="App Store" alt="App Store"> </a></td>
     </tr>
 
   </tbody>
 </table>
 
-<br>
 
-  Esta ferramenta tem várias funcionalidades que lhe permitem: 
+Esta ferramenta tem várias funcionalidades que lhe permitem: 
   
- - Explorar o horário atualizado do **Programa**, os **resumos** das comunicações, a lista de **Autores** bem como as suas afiliações e a biografia dos palestrantes convidados
+ - Explorar o horário atualizado do **Programa**, os **Resumos** das comunicações, a lista de **Autores** bem como as suas afiliações e a biografia dos palestrantes convidados
 
  - Orientar-se melhor entre as **Salas** onde vão decorrer as várias apresentações
  

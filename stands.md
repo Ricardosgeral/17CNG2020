@@ -84,7 +84,7 @@ Cada expositor é responsável por danos no seu *stand*, assim como pela seguran
   <td> <strong><i>Stand</i> 8: </strong><a href="https://www.tecnilab.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_Tecnilab.png" style="height:55px" title="Tecnilab" alt="Tecnilab"> </a> </td>
   </tr>
   <tr>
-  <td> <strong><i>Stand</i> 9: </strong><a href="https://www.tpf.pt/"> <img src="{{site.baseurl}}/images/sponsors/TPF_Logo_Artefinal_V01_4Color.jpg" style="height:55px" title="TPF" alt="TPF"> </a> </td>
+  <td> <strong><i>Stand</i> 9: </strong><a href="https://www.tpf.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_TPF.png" style="height:55px" title="TPF" alt="TPF"> </a> </td>
   </tr>
   <tr>
   <td> <strong><i>Stand</i> 11: </strong><a href="https://www.geocontrole.pt/"> <img src="{{site.baseurl}}/images/sponsors/Logo_Geocontrolo.png" style="height:55px" title="Geocontrolo" alt="Geocontrolo"> </a> </td>
