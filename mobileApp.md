@@ -25,15 +25,15 @@ para que possa tirar o máximo proveito do evento.
   <tbody>
     <tr >
       <td align="center"><img src="{{site.baseurl}}/images/mobApp/android.png" style="width:75%; max-width: 200px; height: auto" title="Android" alt="Android"> </td>
-      <td align="center"><img src="{{site.baseurl}}/images/mobApp/apple_iOS.png" style="width:95%; max-width: 270px; height: auto" title="iOS"  alt="iOS"> </td>
+      <td align="center"><img src="{{site.baseurl}}/images/mobApp/apple_iOS.png" style="width:75%; max-width: 200px; height: auto" title="iOS"  alt="iOS"> </td>
     </tr>
     <tr>
       <td align="center">  <a href="https://play.google.com/store/apps/details?id=org.ricardos.cng2020"><img src="{{site.baseurl}}/images/mobApp/qr-code_google.png" style="width:85%; max-width: 230px; height: auto" title="QR Google Play" alt="QR Google Play"> </a></td>
       <td align="center">  <a href="https://apps.apple.com/gb/app/17cng2020/id1495678915"><img  src="{{site.baseurl}}/images/mobApp/qr-code_apple.png" style="width:85%; max-width: 230px; height: auto" title="QR App Store" alt="QR App Store"> </a></td>
     </tr>
     <tr>
-      <td align="center">  <a href="https://play.google.com/store/apps/details?id=org.ricardos.cng2020"><img src="{{site.baseurl}}/images/mobApp/googleplay.png" style="width:89%; max-width: 250px; height: auto" title="Google Play" alt="Google Play"> </a></td>
-      <td align="center">  <a href="https://apps.apple.com/gb/app/17cng2020/id1495678915"><img  src="{{site.baseurl}}/images/mobApp/appstore.png" style="width:80%; max-width: 230px; height: auto" title="App Store" alt="App Store"> </a></td>
+      <td align="center">  <a href="https://play.google.com/store/apps/details?id=org.ricardos.cng2020"><img src="{{site.baseurl}}/images/mobApp/googleplay.png" style="width:80%; max-width: 250px; height: auto" title="Google Play" alt="Google Play"> </a></td>
+      <td align="center">  <a href="https://apps.apple.com/gb/app/17cng2020/id1495678915"><img  src="{{site.baseurl}}/images/mobApp/appstore.png"                style="width:80%; max-width: 250px; height: auto" title="App Store" alt="App Store"> </a></td>
     </tr>
 
   </tbody>
