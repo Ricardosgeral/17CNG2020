@@ -28,23 +28,8 @@ The repository is organized as follows:
 * `css/`        CSS code. Only edit style.css, the rest is 3rd party.
 * `css/images/` jquerymobile CSS images
 * `images/`     Our images (logos, etc.)
-* `js/`         Javascript. Only edit script.js, the rest is 3rd party libraries.
-* `misc/`       Static documents served by the site: the calls for papers, PDF of the conference schedule, etc.
-* `*.md`, `*.html` Individual pages in markdown or HTML format.
-
-The site uses a bunch of 3rd party javascript libraries. You will want to use their latest versions:
-
-* http://jquery.com/ - the javascript goes into `js`
-* http://jquerymobile.com/ - the javascript goes into `js` and the CSS and images go into `css`
-* http://jquerymobile.com/demos/1.1.0/docs/_assets/css/jqm-docs.css - the CSS for the jquerymobile documentation page, goes into CSS
-* http://code.google.com/p/css3-mediaqueries-js/ - the javascript goes into `js`
-
-
-## Other hints
-- Once `_config.yml` is edited in order to add a new menu entry, don't forget that since all pages will be related, not just index.html should be updated (on the server), but all other html files as well.
-
 - The program item styles (talk,paper,demo,session,etc.) are defined in `_sass/customization.scss` (for instance, .prog-social).
-
+- The program item styles (talk,paper,demo,session,etc.) are defined in `_sass/customization.scss` (for instance, .prog-social).
 - Some basic coloring scheme is defined in `_sass/variables.scss`.
 
 - To change the sources of the picture slideshow on the main site, edit index.md. In particular, add your pictures here:

@@ -12,18 +12,17 @@ o Prémio Ricardo Esquível Teixeira Duarte visa incentivar e distinguir os auto
 de soluções de projeto de obras geotécnicas ou de obras com relevante componente geotécnica, 
 que se destaquem por inovações na conceção, no projeto, na execução, nos materiais usados ou no controlo da sua execução.
 
-<br>
 
 <table class="table">
   <tbody>
     <tr>
-  <td> 
+  <td>   
+   <blockquote>
+
    <img src="{{site.baseurl}}/images/premioTD/ricardo-teixeira-duarte.jpg" alt="Eng. Ricardo Esquível Teixeira Duarte - in Galeria de Bastonários da Ordem dos Engenheiros">
 
-   </td> 
-  <td > 
+<br> 
    
-   <blockquote>
     <p>"O Engenheiro Ricardo Esquível Teixeira Duarte, fundador da Empresa Teixeira Duarte, 
 foi um dos mais entusiastas inovadores geotécnicos que com uma filosofia, 
 “cultura” e atitude comportamental, criou uma empresa especializada em geotecnia, 

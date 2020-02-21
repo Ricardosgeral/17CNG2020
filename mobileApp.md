@@ -1,28 +1,35 @@
 ---
 layout: default
-title: Aplicação *Android* & *iOS*
+title: Aplicação Android & iOS
 group: Aplicação Android/iOS
 ---
 
 # {{ page.title }}
 
-Irá ser disponibilizada uma aplicação móvel (para *smartphone* e *tablet*) com o [**programa do 17cng2020**]({{site.baseurl}}/program.html), 
+É disponibilizada uma aplicação móvel (para *smartphone* e *tablet*) com o [**programa do 17cng2020**]({{site.baseurl}}/program.html), 
 para que possa tirar o máximo proveito do evento.
 
- > <i>A descarregar num futuro próximo!</i><br>
+ **NOTA**: Nesta fase, a programação apresentada serve apenas para fim de demonstração!!.
+
+ > <i>**Descarregue a app e confira!**</i><br>
+
 
 <table class="table table-hover">
 
   <thead>
     <tr>
-      <td align="center">  <strong> Android (4.2+) </strong></td>
-      <td align="center"> <strong> iOS (8+) </strong></td>    
+      <td align="center">  <strong> Android (4.1+) </strong></td>
+      <td align="center"> <strong> iOS (11+) </strong></td>    
     </tr>
   </thead>
   <tbody>
     <tr >
       <td align="center"><img src="{{site.baseurl}}/images/mobApp/android.png" style="width:75%; max-width: 200px; height: auto" title="Android" alt="Android"> </td>
-      <td align="center"><img src="{{site.baseurl}}/images/mobApp/apple_iOS.png"     style="width:95%; max-width: 270px; height: auto" title="iOS"     alt="iOS">     </td>
+      <td align="center"><img src="{{site.baseurl}}/images/mobApp/apple_iOS.png" style="width:95%; max-width: 270px; height: auto" title="iOS"  alt="iOS"> </td>
+    </tr>
+    <tr>
+      <td align="center">  <a href="https://play.google.com/store/apps/details?id=org.ricardos.cng2020"><img src="{{site.baseurl}}/images/mobApp/qr-code_google.png" style="width:85%; max-width: 230px; height: auto" title="QR Google Play" alt="QR Google Play"> </a></td>
+      <td align="center">  <a href="https://apps.apple.com/gb/app/17cng2020/id1495678915"><img  src="{{site.baseurl}}/images/mobApp/qr-code_apple.png" style="width:85%; max-width: 230px; height: auto" title="QR App Store" alt="QR App Store"> </a></td>
     </tr>
     <tr>
       <td align="center">  <a href="https://play.google.com/store/apps/details?id=org.ricardos.cng2020"><img src="{{site.baseurl}}/images/mobApp/googleplay.png" style="width:89%; max-width: 250px; height: auto" title="Google Play" alt="Google Play"> </a></td>

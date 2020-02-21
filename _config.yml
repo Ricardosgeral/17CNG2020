@@ -95,6 +95,9 @@ menu:
 - name: 11EJG
   url:  /jovens-geo.html
   icon: fa-graduation-cap
+- name: Palestrantes convidados
+  url:  /keynote_speakers.html
+  icon: fa-street-view
 - name: Inscrição
   icon: fa-user-plus
   url: /registration.html
