@@ -71,24 +71,18 @@ menu:
     - name: Instruções para submissão
       url:  /submission-CNG.html
       icon: fa-pencil
-    - name: Artigos aceites
-      url:  /accepted-papers-CNG.html
-      icon: fa-check
 - name: 10CLBG
   icon: fa-briefcase
   submenu:
     - name: Objetivos
       url:  /objectives-CLBG.html
       icon: fa-bullseye
-#    - name: Apelo a comunicações
-#      url:  /call-papers-CLBG.html
-#      icon: fa-bullhorn
     - name: Instruções para submissão
       url:  /submission-CLBG.html
       icon: fa-pencil
-    - name: Artigos aceites
-      url:  /accepted-papers-CLBG.html
-      icon: fa-check_sign
+- name: Artigos aceites
+  url:  /accepted-papers.html
+  icon: fa-check-square
 - name: VII Lição Victor de Mello
   url:  /licao-victor-mello.html
   icon: fa-university

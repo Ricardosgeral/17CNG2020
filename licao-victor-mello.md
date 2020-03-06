@@ -26,7 +26,7 @@ Presidente de Vardé y Asociados S.A., Ingeniería Geotécnica, desde 1971.
 <br>
 Ha recibido varios premios internacionales y locales por su actuación profesional.
 <br>
-<a href="https://www.facet.unt.edu.ar/facetinforma/wp-content/uploads/sites/9/2018/08/CV-Oscar-A.-Varde%C2%B4.pdf"> + informação</a>
+<a href="https://www.facet.unt.edu.ar/facetinforma/wp-content/uploads/sites/9/2018/08/CV-Oscar-A.-Varde%C2%B4.pdf"> [+] informação</a>
    
    </td>
   </tr>

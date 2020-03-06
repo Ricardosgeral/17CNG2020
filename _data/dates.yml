@@ -33,13 +33,13 @@ papers-final:
 papers-revisao:
   track: main
   info_main: Informação sobre a aceitação dos trabalhos e eventuais alterações
-  date: 2020, 21 de fevereiro
+  date: 2020, 4 de março
   important: true
 
 papers-entrega1:
   track: main
-  info_main: <span class="blink_text"> <strong>(Nova) </strong> </span> Data limite para submissão das comunicações
-  date: 2020, 31 de janeiro
+  info_main: (Nova) Data limite para submissão das comunicações
+  date: <del>2020, 31 de janeiro</del>
   important: true
 
 registration-earlybird:
