@@ -16,11 +16,17 @@ og_tags:
 <link href="{{ site.baseurl }}/css/camera.css" rel="stylesheet">
 <script src="{{ site.baseurl }}/js/camera.min.js"></script>
 
+
+ <span class="blink_text"> <strong>Comunicado: Adiamento do 17CNG/10CLBG </strong> <a href="adiamento.html"> [+]</a> </span>
+
+
+
+
 <div class="containerwrap">
         <!--Camera Slide-->    
          <div class="camera_wrap">                  
-            <div data-src="images/headers/headers_1.jpg">
-                <img src="images/headers/headers_1.jpg">
+            <div data-src="images/headers/headers_1.png">
+                <img src="images/headers/headers_1.png">
             </div>                       
             <div data-src="images/headers/headers_2.jpg">
                 <img src="images/headers/headers_2.jpg">                                
@@ -34,8 +40,8 @@ og_tags:
                     Praça do Comércio, Lisboa
                 </div>                               
             </div>                        
-            <div data-src="images/headers/headers_1a.jpg">
-                <img src="images/headers/headers_1a.jpg">
+            <div data-src="images/headers/headers_1a.png">
+                <img src="images/headers/headers_1a.png">
             </div>                                   
             <div data-src="images/headers/headers_4.jpg">
                 <img src="images/headers/headers_4.jpg">                
@@ -49,8 +55,8 @@ og_tags:
                     Parque Eduardo VII, Lisboa
                 </div>                
             </div>            
-             <div data-src="images/headers/headers_1b.jpg">
-                <img src="images/headers/headers_1b.jpg">
+             <div data-src="images/headers/headers_1b.png">
+                <img src="images/headers/headers_1b.png">
             </div>                          
             <div data-src="images/headers/headers_6.jpg">
                 <img src="images/headers/headers_6.jpg">                
@@ -64,8 +70,8 @@ og_tags:
                     Santa Maria de Belém, Lisboa
                 </div>           
             </div>      
-             <div data-src="images/headers/headers_1c.jpg">
-                <img src="images/headers/headers_1c.jpg">
+             <div data-src="images/headers/headers_1c.png">
+                <img src="images/headers/headers_1c.png">
             </div>                               
             <div data-src="images/headers/headers_8.jpg">
                 <img src="images/headers/headers_8.jpg">
@@ -82,13 +88,15 @@ og_tags:
          </div>   <!--------Camera Slide End-->
 </div>  
  
+ 
+ 
 
 # Convite
 
 A Sociedade Portuguesa de Geotecnia ([SPG](http://www.spgeotecnia.pt)) e o Laboratório Nacional de Engenharia Civil ([LNEC](http://lnec.pt)) organizam o 17º Congresso Nacional de Geotecnia (**17CNG**). 
-O Congresso decorrerá em Lisboa, nas instalações do LNEC, de 3 a 6 de maio de 2020. 
-Na mesma ocasião, a 4 de maio de 2020, decorrerá o 10º Congresso Luso-Brasileiro de Geotecnia (**10CLBG**), organizado pela SPG, a Associação Brasileira de Mecânica dos Solos e Engenharia Geotécnica ([ABMS](http://www.abms.com.br)) e o LNEC. 
-No dia 3 de maio de 2020 haverá também lugar ao 11º Encontro de Jovens Geotécnicos (**11EJG**).
+O Congresso decorrerá em Lisboa, nas instalações do LNEC, de <del>3 a 6 de maio de 2020</del> (adiado). 
+Na mesma ocasião, a <del>4 de maio de 2020</del> , decorrerá o 10º Congresso Luso-Brasileiro de Geotecnia (**10CLBG**), organizado pela SPG, a Associação Brasileira de Mecânica dos Solos e Engenharia Geotécnica ([ABMS](http://www.abms.com.br)) e o LNEC. 
+No dia <del>3 de maio de 2020</del> haverá também lugar ao 11º Encontro de Jovens Geotécnicos (**11EJG**).
 
 O evento será organizado em sessões plenárias, com conferências proferidas por especialistas nacionais e estrangeiros, 
 e sessões técnicas, com apresentação de comunicações selecionadas. 

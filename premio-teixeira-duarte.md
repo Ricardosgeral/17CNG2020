@@ -42,4 +42,4 @@ lutando por uma Empresa de Engenharia e com engenheiros portugueses, em que foi 
 </table>
 
 
-A apresentação do(s) projeto(s) vencedor(es) da 2ª edição do Prémio irá acontecer no dia 3 maio de 2020 (domingo). 
+A apresentação do(s) projeto(s) vencedor(es) da 2ª edição do Prémio irá acontecer no dia <del>3 maio de 2020 (domingo)</del> (adiado). 

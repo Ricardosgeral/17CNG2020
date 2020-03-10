@@ -47,16 +47,16 @@ menu:
     - name: Programa geral
       url: /program.html
       icon: fa-calendar
-    - name: Domingo, 3 de maio
+    - name: Domingo
       url: /program_sunday.html
       icon: fa-calendar
-    - name: Segunda, 4 de maio
+    - name: Segunda
       url: /program_monday.html
       icon: fa-calendar
-    - name: Terça, 5 de maio
+    - name: Terça
       url: /program_tuesday.html
       icon: fa-calendar
-    - name: Quarta, 6 de maio
+    - name: Quarta
       url: /program_wednesday.html
       icon: fa-calendar
 - name: 17CNG
@@ -161,6 +161,9 @@ menu:
   - name: Sobre Lisboa
     url: /getting_around.html
     icon: fa-compass
+  - name: Adiamento
+    url: /adiamento.html
+    icon: fa-eraser
 - name: Aplicação Android/iOS
   url: /mobileApp.html
   icon: fa-android

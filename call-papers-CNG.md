@@ -19,7 +19,6 @@ os autores encontram as informações necessárias para poderem submeter
 um resumo, que deverá ter um máximo de 250 palavras.
 
 A data limite para envio dos resumos é o dia **31 de outubro de 2019**.
-A data para aceitação dos resumos está marcada para **30 de novembro de 2019**.
 
 
 ## <i class="fa fa-calendar"></i> Datas importantes

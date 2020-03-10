@@ -6,7 +6,7 @@ group: VII Lição Victor de Mello
 
 # {{page.title}}
 
-No âmbito do 10º Congresso Luso-Brasileiro de Geotecnia, que decorrerá no dia 4 de maio de 2020, realizar-se-á a VII Lição Victor de Mello que será pelo Professor Oscar Vardé (Argentina), com o título:
+No âmbito do 10º Congresso Luso-Brasileiro de Geotecnia, que decorrerá no dia <del>4 de maio de 2020</del> (adiado), realizar-se-á a VII Lição Victor de Mello que será pelo Professor Oscar Vardé (Argentina), com o título:
 
  - **Lessons Learned from Dams Construction in Patagonia**
 
@@ -26,7 +26,7 @@ Presidente de Vardé y Asociados S.A., Ingeniería Geotécnica, desde 1971.
 <br>
 Ha recibido varios premios internacionales y locales por su actuación profesional.
 <br>
-<a href="https://www.facet.unt.edu.ar/facetinforma/wp-content/uploads/sites/9/2018/08/CV-Oscar-A.-Varde%C2%B4.pdf"> [+] informação</a>
+<a href="https://www.facet.unt.edu.ar/facetinforma/wp-content/uploads/sites/9/2018/08/CV-Oscar-A.-Varde%C2%B4.pdf"> [+] </a>
    
    </td>
   </tr>

@@ -14,27 +14,26 @@
 congressos:
   track: main
   info_main: 11EJG | 10CLBG | 17CNG
-  date: 2020, 3 | 4 | 5-6 de maio
+  date: <del>2020, 3 | 4 | 5-6 de maio</del> Adiado para data a anunciar oportunamente.
   important: true
 
 programa-final:
   track: flyer
   info_main: Divulgação do programa definitivo
-  date: 2020, 27 de abril
+  date: <del>2020, 27 de abril</del> Adiado.
   important: true
-
 
 papers-final:
   track: main
   info_main: Data limite para envio da versão definitiva das comunicações
-  date: 2020, 20 de março
+  date: <del>2020, 20 de março </del> Adiado.
   important: true
 
-papers-revisao:
-  track: main
-  info_main: Informação sobre a aceitação dos trabalhos e eventuais alterações
-  date: 2020, 4 de março
-  important: true
+#papers-revisao:
+#  track: main
+#  info_main: Informação sobre a aceitação dos trabalhos e eventuais alterações
+#  date: 2020, 4 de março
+#  important: true
 
 papers-entrega1:
   track: main
