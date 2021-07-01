@@ -10,7 +10,6 @@ sass:
   style: compressed
 encoding: UTF-8
 
-
 plugins:
   - jekyll-assets
   - jekyll-sitemap
@@ -65,9 +64,6 @@ menu:
     - name: Objetivos e temas
       url:  /objectives-CNG.html
       icon: fa-bullseye
-    - name: Apelo a comunicações
-      url:  /call-papers-CNG.html
-      icon: fa-bullhorn
     - name: Instruções para submissão
       url:  /submission-CNG.html
       icon: fa-pencil
@@ -80,6 +76,9 @@ menu:
     - name: Instruções para submissão
       url:  /submission-CLBG.html
       icon: fa-pencil
+- name: Apelo a comunicações
+  url:  /call-papers-CNG.html
+  icon: fa-bullhorn
 - name: Artigos aceites
   url:  /accepted-papers.html
   icon: fa-check-square
@@ -107,13 +106,13 @@ menu:
   - name: Patrocinadores
     icon: fa-pencil
     url: /supporters.html
-  - name: Expositores
-    icon: fa-eye
-    url: /stands.html
-- name: Alojamento
-  icon: fa-building-o
-  url: /hoteis.html
-- name: Visitas técnicas
+#  - name: Expositores
+#    icon: fa-eye
+#    url: /stands.html
+#- name: Alojamento
+#  icon: fa-building-o
+#  url: /hoteis.html
+- name: Visitas técnicas virtuais
   icon: fa-map-signs
   url: /technical_visits.html
 - name: Eventos sociais
@@ -122,9 +121,9 @@ menu:
   - name: Receção
     icon: fa-glass
     url: /reception.html
-  - name: Banquetes
-    icon: fa-cutlery
-    url: /banquet.html
+#  - name: Banquetes
+#    icon: fa-cutlery
+#    url: /banquet.html
 - name: Comissões-17CNG
   icon: fa-users
   submenu:
@@ -149,24 +148,24 @@ menu:
     - name: Comissão Científica
       url: /committie_cientifica_CLBG.html
       icon: fa-users
-- name: Informações úteis
-  icon:  fa-map-pin
-  submenu:
-  - name: Chegar ao LNEC
-    url: /getting_LNEC.html
-    icon: fa-car
-  - name: Mobilidade partilhada
-    url: /mobility.html
-    icon: fa-bicycle
-  - name: Sobre Lisboa
-    url: /getting_around.html
-    icon: fa-compass
-  - name: Adiamento
-    url: /adiamento.html
-    icon: fa-eraser
-- name: Aplicação Android/iOS
-  url: /mobileApp.html
-  icon: fa-android
+#- name: Informações úteis
+#  icon:  fa-map-pin
+#  submenu:
+#  - name: Chegar ao LNEC
+#    url: /getting_LNEC.html
+#    icon: fa-car
+#  - name: Mobilidade partilhada
+#    url: /mobility.html
+#    icon: fa-bicycle
+#  - name: Sobre Lisboa
+#    url: /getting_around.html
+#    icon: fa-compass
+#  - name: Adiamento
+#    url: /adiamento.html
+#    icon: fa-eraser
+#- name: Aplicação Android/iOS
+#  url: /mobileApp.html
+#  icon: fa-android
 - name: Contactos
   url: /contacts.html
   icon: fa-address-book

@@ -9,7 +9,7 @@ group: Artigos aceites
 
 A publicação dos artigos aceites nas atas dos congressos fica condicionada à inscrição de pelo menos um dos autores. 
 
-Conforme a notícia de 2019-11-14, está estabelecido um limite para o número de publicações por inscrição. [Mais informações](http://localhost:4000/submission-CNG.html).
+[comment]: <> (Conforme a notícia de 2019-11-14, está estabelecido um limite para o número de publicações por inscrição. [Mais informações]&#40;http://localhost:4000/submission-CNG.html&#41;.)
 
 Lista em atualização...
 

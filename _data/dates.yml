@@ -13,20 +13,20 @@
 
 congressos:
   track: main
-  info_main: 11EJG | 10CLBG | 17CNG
-  date: <del>2020, 3 | 4 | 5-6 de maio</del> Adiado para data a anunciar oportunamente.
+  info_main: 11EJG | 10CLBG | 17CNG - ONLINE
+  date: 2021, 14 | 15 | 16-17 de novembro
   important: true
 
-programa-final:
-  track: flyer
-  info_main: Divulgação do programa definitivo
-  date: <del>2020, 27 de abril</del> Adiado.
-  important: true
+#programa-final:
+#  track: flyer
+#  info_main: Divulgação do programa definitivo
+#  date: <del>2020, 27 de abril</del> Adiado.
+#  important: true
 
 papers-final:
   track: main
   info_main: Data limite para envio da versão definitiva das comunicações
-  date: <del>2020, 20 de março </del> Adiado.
+  date: 2021, 1 de novembro
   important: true
 
 #papers-revisao:
@@ -35,50 +35,44 @@ papers-final:
 #  date: 2020, 4 de março
 #  important: true
 
-papers-entrega1:
-  track: main
-  info_main: (Nova) Data limite para submissão das comunicações
-  date: <del>2020, 31 de janeiro</del>
-  important: true
+#papers-entrega1:
+#  track: main
+#  info_main: Data limite para submissão das comunicações
+#  date: 2021, 28 de setembro
+#  important: true
 
-registration-earlybird:
-  track: registration
-  info_main: Data limite para inscrição a preço reduzido
-  date: <del>2020, 31 de janeiro</del>
-  important: true
+#registration-earlybird:
+#  track: registration
+#  info_main: Data limite para inscrição a preço reduzido
+#  date: <del>2020, 31 de janeiro</del>
+#  important: true
 
 papers-entrega:
   track: main
   info_main: Data limite para submissão das comunicações
-  date: <del>2020, 19 de janeiro</del>
+  date: 2021, 21 de setembro
   important: true
 
-programa2:
-  track: flyer
-  info_main: Divulgação do 2º Boletim
-  date: <del>2020, 15 de janeiro</del>
-  important: true
+#programa2:
+#  track: flyer
+#  info_main: Divulgação do 2º Boletim
+#  date: <del>2020, 15 de janeiro</del>
+#  important: true
 
 resumos-aceitacao:
   track: main
   info_main: Informação sobre a aceitação dos resumos
-  date: <del>2019, 30 de novembro</del>
-  important: true
-
-resumos-entrega1:
-  track: main
-  info_main: (Nova) Data limite para envio dos resumos
-  date: <del>2019, 15 de novembro</del>
+  date: 2021, 31 de julho
   important: true
 
 resumos-entrega:
   track: main
   info_main:  Data limite para envio dos resumos
-  date: <del>2019, 31 de outubro</del>
+  date: 2021, 22 de julho
   important: true
 
-progama1:
-  track: flyer
-  info_main: Divulgação do 1º Boletim
-  date: <del> 2019, 26 de julho </del>
-  important: true
+#progama1:
+#  track: flyer
+#  info_main: Divulgação do 1º Boletim Evento Online
+#  date: 2019, 26 de julho
+#  important: true

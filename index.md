@@ -3,7 +3,7 @@ layout: default
 title: Início
 og_tags:
   - property: og:description
-    content: A Sociedade Portuguesa de Geotecnia (SPG) e o Laboratório Nacional de Engenharia Civil (LNEC) têm a honra de o convidar para o XVII Congresso Nacional de Geotecnia (17CNG), a realizar-se de 3 a 6 de maio de 2020, no Centro de Congressos do Laboratório Nacional de Engenharia Civil.
+    content: A Sociedade Portuguesa de Geotecnia (SPG) e o Laboratório Nacional de Engenharia Civil (LNEC) têm a honra de o convidar para o XVII Congresso Nacional de Geotecnia (17CNG), a realizar-se ONLINE de 14 a 17 de novembro de 2021, a partir do Centro de Congressos do Laboratório Nacional de Engenharia Civil.
 ---
 
 <!--  Camera JS with Required jQuery Easing Plugin-->
@@ -15,11 +15,6 @@ og_tags:
 
 <link href="{{ site.baseurl }}/css/camera.css" rel="stylesheet">
 <script src="{{ site.baseurl }}/js/camera.min.js"></script>
-
-
- <span class="blink_text"> <strong>Comunicado: Adiamento do 17CNG/10CLBG </strong> <a href="adiamento.html"> [+]</a> </span>
-
-
 
 
 <div class="containerwrap">
@@ -87,24 +82,25 @@ og_tags:
             </div>  
          </div>   <!--------Camera Slide End-->
 </div>  
- 
- 
- 
+
 
 # Convite
 
 A Sociedade Portuguesa de Geotecnia ([SPG](http://www.spgeotecnia.pt)) e o Laboratório Nacional de Engenharia Civil ([LNEC](http://lnec.pt)) organizam o 17º Congresso Nacional de Geotecnia (**17CNG**). 
-O Congresso decorrerá em Lisboa, nas instalações do LNEC, de <del>3 a 6 de maio de 2020</del> (adiado). 
-Na mesma ocasião, a <del>4 de maio de 2020</del> , decorrerá o 10º Congresso Luso-Brasileiro de Geotecnia (**10CLBG**), organizado pela SPG, a Associação Brasileira de Mecânica dos Solos e Engenharia Geotécnica ([ABMS](http://www.abms.com.br)) e o LNEC. 
-No dia <del>3 de maio de 2020</del> haverá também lugar ao 11º Encontro de Jovens Geotécnicos (**11EJG**).
 
-O evento será organizado em sessões plenárias, com conferências proferidas por especialistas nacionais e estrangeiros, 
-e sessões técnicas, com apresentação de comunicações selecionadas. 
-As conferências e as comunicações serão disponibilizadas em formato digital.
+O Congresso decorrerá **ONLINE**, de 14 a 17 de novembro de 2021, a partir das instalações do LNEC, em Lisboa.  
 
-Durante as sessões decorrerá ainda uma exposição técnica, na qual se conta com a participação de instituições e empresas. 
-No último dia do Congresso estão programadas visitas técnicas. 
-Os dias das sessões incluirão almoço a que acresce a realização de outros eventos sociais a divulgar oportunamente.
+Na mesma ocasião, a 15 de novembro de 2021, decorrerá o 10º Congresso Luso-Brasileiro de Geotecnia (**10CLBG**), organizado pela SPG, a Associação Brasileira de Mecânica dos Solos e Engenharia Geotécnica ([ABMS](http://www.abms.com.br)) e o LNEC. 
+
+No dia 14 de novembro de 2021 haverá, também, lugar ao 11º Encontro de Jovens Geotécnicos (**11EJG**).
+
+O evento será organizado **ONLINE** em sessões plenárias, com conferências proferidas por especialistas nacionais e estrangeiros, e sessões técnicas, com apresentação de comunicações selecionadas. 
+As conferências, as apresentações e as comunicações serão disponibilizadas em formato digital.
+
+No decorrer do evento, está prevista a realização de uma exposição técnica virtual, na qual se conta com a participação de instituições e de empresas. 
+
+No último dia do Congresso estão programadas visitas técnicas virtuais. 
+Poderão, ainda, ser realizados eventos sociais a divulgar oportunamente.
 
 ## <i class="fa fa-newspaper-o"></i> Notícias
 
