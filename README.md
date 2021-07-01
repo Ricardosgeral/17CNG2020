@@ -4,7 +4,7 @@ This repository contains code and data for the 17CNG 2020 web site.
 
 #### Generating site using jekyll
 
-The website uses jekyll engine to generate the website using the templates.  To get started with jekyll:
+The website uses jekyll engine to generate the website using the templates. To get started with jekyll:
 
     gem install jekyll bundler
     bundle install
