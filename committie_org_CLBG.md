@@ -7,20 +7,20 @@ committees:
 
   - role: Membros
     people:
-      - name: Manuel Matos Fernandes
+      - name: Alexandre Pinto, JetSJ, IST
         affiliation: Presidente da SPG
-      - name: Alexandre Duarte Gusmão
+      - name: Fernando Schnaid
         affiliation: Presidente da ABMS        
       - name: Laura Caldeira
-        affiliation: Presidente do 17CNG, LNEC, Portugal
-      - name: Maurício Martinez Sales 
+        affiliation: Presidente do 17CNG
+      - name: Frederico F. Falconi 
         affiliation: Vice-Presidente da ABMS         
-      - name: Alexandre Pinto
+      - name: Eduardo Fortunato
         affiliation: Vice-Presidente da SPG           
-      - name: Gustavo Ferreira Simões  
+      - name: Gustavo R. Vianna
         affiliation: Secretário-geral da ABMS        
       - name: Alberto Sayão   
         affiliation: Ex-presidente da ABMS
-      - name: João Marcelino   
+      - name: João Marcelino
         affiliation: LNEC, Portugal        
 ---

@@ -8,15 +8,20 @@ og_tags:
 
 <!--  Camera JS with Required jQuery Easing Plugin-->
 
+<!-- Plugin JavaScript -->
 <script src="{{ site.baseurl }}/js/easing.min.js" type="text/javascript"></script>
+<!-- Plugin JavaScript -->
+
 
 <!-- Bootstrap Js -->
+
 <script src="{{ site.baseurl }}/js/bootstrap.min.js" type="text/javascript"></script>
+
 
 <link href="{{ site.baseurl }}/css/camera.css" rel="stylesheet">
 <script src="{{ site.baseurl }}/js/camera.min.js"></script>
 
-
+ 
 <div class="containerwrap">
         <!--Camera Slide-->    
          <div class="camera_wrap">                  
@@ -33,7 +38,7 @@ og_tags:
                 <img src="images/headers/headers_3.jpg">
                 <div class="camera_caption">
                     Praça do Comércio, Lisboa
-                </div>                               
+                </div>
             </div>                        
             <div data-src="images/headers/headers_1a.png">
                 <img src="images/headers/headers_1a.png">
@@ -124,6 +129,6 @@ Poderão, ainda, ser realizados eventos sociais a divulgar oportunamente.
 <div class="sponsors">
     <a href="//www.spgeotecnia.pt/"><img src="images/SPG_logo.png" alt="Sociedade Portuguesa de Geotecnia" /></a>
 	<a href="//www.lnec.pt/"><img src="images/LNEC_logo_2linhas.png" alt="Laboratório Nacional de Engenharia Civil" /></a>
-	<a href="//www.abms.com.br/"><img src="images/abms-logo.png" alt="Associação Brasileira de Mecânica dos solos e Engenharia Geotecnica" /></a>  
+	<a href="//www.abms.com.br/"><img src="images/ABMS70.png" alt="Associação Brasileira de Mecânica dos solos e Engenharia Geotecnica" /></a>  
 
 </div>

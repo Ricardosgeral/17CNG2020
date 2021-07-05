@@ -17,14 +17,14 @@ $(document).on("pagebeforeshow", function() {
 
         if (newslibtn != null) {
             $(newslibtn).siblings().slice(slice_num_info).hide();
-            $(newslibtn).find("a").text("Older News");
+            $(newslibtn).find("a").text("Notícias antigas");
             $(newslibtn).find("span").toggleClass("ui-icon-plus", true);
             $(newslibtn).find("span").toggleClass("ui-icon-minus", false);
         }
 
         if (dateslibtn != null) {
             $(dateslibtn).siblings().slice(slice_num_dates).hide();
-            $(dateslibtn).find("a").text("Older Dates");
+            $(dateslibtn).find("a").text("Datas antigas");
             $(dateslibtn).find("span").toggleClass("ui-icon-plus", true);
             $(dateslibtn).find("span").toggleClass("ui-icon-minus", false);
         }

@@ -7,24 +7,22 @@ committees:
  
   - role: Membros
     people:
-      - name: Manuel de Matos Fernandes 
-        affiliation: Presidente da Direção da SPG, UP
-      - name: José Luiz Antunes 
-        affiliation: Presidente Assembleia-Geral da SPG, KELLER
-      - name: Alexandre Pinto
-        affiliation: Vice-Presidente da Direção da SPG, JETSJ, UL
-      - name: Ana Vieira
-        affiliation: Secretária-Geral da Direção da SPG, LNEC
-      - name: Hélder Chaminé
-        affiliation: Secretário-Adjunto da Direção da SPG, IPP
-      - name: António Cristóvão
-        affiliation: Tesoureiro da Direção da SPG, KELLER
+      - name: Alexandre Pinto 
+        affiliation: Presidente da Direção da SPG, JetSJ, IST
+      - name: Ivo Rosa
+        affiliation: Presidente Assembleia-Geral da SPG, Teixeira Duarte
+      - name: Eduardo Fortunato
+        affiliation: Vice-Presidente da Direção da SPG, LNEC
+      - name: Isabel Fernandes
+        affiliation: Secretária-Geral da Direção da SPG, FCUL
+      - name: Castorina Vieira
+        affiliation: Secretário-Adjunto da Direção da SPG, FEUP
+      - name: José Neves
+        affiliation: Tesoureiro da Direção da SPG, IST
       - name: Ana Malheiro
         affiliation: LREC, Açores
-      - name: José Neves
-        affiliation: UL
       - name: Paulo Ramos
-        affiliation: TEIXEIRA DUARTE
+        affiliation: Teixeira Duarte
 ---
 <!--
  [Contatar a comissão organizadora](mailto:ricardos@lnec.pt,ricardos.geral@gmail.com?subject=[17CNG/10CLBG 2020]){: data-role="button" class="button" }

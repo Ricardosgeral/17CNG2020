@@ -2,17 +2,10 @@
 layout: default
 title: Receção no LNEC
 group: Eventos sociais
-
 ---
-
-
-
 ## {{ page.title }}
 
-
-A ser anunciado oportunamente.
-
-
+A anunciar oportunamente.
 
 <!--
 <div class="imagetext">

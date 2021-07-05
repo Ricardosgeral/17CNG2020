@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Visitas técnicas
+title: Visitas técnicas virtuais
 group: Visitas-técnicas
 
 ---
 
 # {{page.title}}
 
-A ser anunciado oportunamente.
+A anunciar oportunamente.
 
 
