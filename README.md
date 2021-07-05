@@ -14,6 +14,8 @@ To generate the website and serve it from a local webserver, e.g., for debugging
  
     bundle exec jekyll serve
 
+The site is served locally in http://localhost:4000/ (127.0.0.1:4000 may not work properly!)
+
 ## Overview
 
 The repository is organized as follows:

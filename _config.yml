@@ -16,8 +16,6 @@ plugins:
 
 url: http://17cng2020.lnec.pt
 baseur: ""
-host: 127.0.0.1
-port: 4000
 
 # Configuration for site
 title: "17cng2020"
