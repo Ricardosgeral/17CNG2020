@@ -88,9 +88,9 @@ function show_hide(divname) {
 function showall(divname) {
     // var newslibtn = $.mobile.activePage.find(".newslibtn");
     var newslibtn = $.mobile.activePage.find(divname);
-    var news_or_dates = "News";
+    var news_or_dates = "Notícias";
     if (divname == ".dateslibtn"){
-        news_or_dates = "Dates";
+        news_or_dates = "Datas";
     }
     if (newslibtn != null) {
         $(newslibtn).find("span").toggleClass("ui-icon-plus ui-icon-minus");
@@ -98,16 +98,16 @@ function showall(divname) {
         if ($(newslibtn).find("span").hasClass('ui-icon-minus')) {
             $(newslibtn).siblings().show();
 
-            $(newslibtn).find("a").text("Hide Older " + news_or_dates);
+            $(newslibtn).find("a").text("Ocultar " + news_or_dates+ " antigas");
         } else {
-            if(news_or_dates == "News") {
+            if(news_or_dates == "Notícias") {
                 $(newslibtn).siblings().slice(slice_num_info).hide();
             }
             else{
                 $(newslibtn).siblings().slice(slice_num_dates).hide();
             }
 
-            $(newslibtn).find("a").text("Older "+ news_or_dates);
+            $(newslibtn).find("a").text(news_or_dates + " antigas");
         }
     }
 }
