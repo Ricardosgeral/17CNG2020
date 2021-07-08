@@ -14,8 +14,9 @@ plugins:
   - jekyll-assets
   - jekyll-sitemap
 
-url: http://17cng2020.lnec.pt
-baseur: ""
+domain: ricardosgeral.github.io
+url: https://ricardosgeral.github.io
+baseur: 17CNG2020
 
 # Configuration for site
 title: "17cng2020"
