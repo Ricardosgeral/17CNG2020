@@ -26,7 +26,7 @@ Pode escolher um dos formatos disponibilizados:
 - Formato proprietário MS Word [DOC](https://drive.google.com/file/d/1jzeGiI4b8MuQFYnOlqFd45sGDiGxs6H5/view?usp=sharing)
 
 ## Processo de revisão e de aceitação 
-As comunicações enviadas pelos autores vão ser revistas por membros da comissão de revisão.  
+As comunicações enviadas pelos autores vão ser revistas por membros da Comissão Científica.  
 Os autores são posteriormente informados acerca da aceitação da comunicação e de eventuais alterações ou de sugestões para melhoria. 
   
 ## Publicação dos artigos nas atas dos congressos

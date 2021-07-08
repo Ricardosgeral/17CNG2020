@@ -100,7 +100,7 @@ menu:
   - name: Empresas
     icon: fa-handshake-o
     submenu:
-      - name: Patrocinadores
+      - name: Apoios
         icon: fa-pencil
         url: /supporters.html
   #  - name: Expositores

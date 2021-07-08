@@ -6,4 +6,4 @@ group: Inscrição
 ---
 # {{ page.title }}
 
-*Em atualização*
+Em atualização
