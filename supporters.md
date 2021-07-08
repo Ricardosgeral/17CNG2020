@@ -7,12 +7,12 @@ group: Empresas
 # {{ page.title }}
 
 # Stands virtuais de empresas (*exemplos*)
-
+ 
 <div class="container">
     <div class="row">
         <div class="d-flex justify-content-left">
             <div class="col-lg-8">
-                <h2><img src="{{ site.baseurl }}/images/sponsors/Logo_EDP.png" alt="" style="height:80px"/></h2>
+                <a href="https://www.mota-engil.com/en/"> <h2><img src="{{ site.baseurl }}/images/sponsors/Logo_ME-ENGENHARIA.png" alt="" style="height:80px"/></h2></a>
                 <div id="Container1"
                      style="padding-bottom:50%; position:relative; display:block; width: 100%">
                     <iframe id="ViostreamIframe1" width="100%" height="100%"
@@ -22,7 +22,6 @@ group: Empresas
             </div>
         </div>
     </div>
-
     <div class="row">
         <div class="d-flex justify-content-left">
             <div class="col-sm-5">
