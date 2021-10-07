@@ -55,9 +55,9 @@ vmware.jpg: JPEG image data, JFIF standard 1.01, resolution (DPI), density 72x72
 ## License
 
 Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License (see [LICENSE.md](LICENSE.md) for details).
-
+ 
 ## Credits
-
+   
 This site is based on the [SIGCOMM 2018 site](https://github.com/cslev/sigcomm_2018).
 
 You are welcome to reuse and adapt the code under the same Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License and the same sharing conditions as above.

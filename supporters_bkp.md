@@ -6,10 +6,7 @@ group: Empresas
 
 # {{ page.title }}
 
-
-
 ## Patrocinadores até à data
-
 
 
 <div class="ui-corner-all custom-corners">

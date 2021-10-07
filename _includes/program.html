@@ -1,5 +1,5 @@
 <div id="{{ include.type }}-program" class="{{ include.type }}-program">
-  <ul class="program" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a" placeholder="Filter program...">
+  <ul class="program" data-role="listview" data-filter="true" data-inset="true" data-theme="d" data-dividertheme="a" placeholder="Filtrar programa...">
     {% for item in include.data %}
       {% if    item.type == "day"     %}
         {% assign progdate = item.time | downcase | split: "," | first %}{% assign progitemclass = "prog-" | append: progdate %}

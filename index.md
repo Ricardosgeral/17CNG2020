@@ -102,7 +102,7 @@ No dia 14 de novembro de 2021 haverá, também, lugar ao 11º Encontro de Jovens
 O 17CNG e o 10CLBG serão organizados em sessões plenárias, com conferências proferidas por especialistas nacionais e estrangeiros, e sessões técnicas, com apresentação de comunicações selecionadas. 
 As conferências, as apresentações e as comunicações serão disponibilizadas em formato digital.
 
-No decorrer do evento, está prevista a realização de uma exposição técnica virtual, na qual se conta com a participação de instituições e de empresas. 
+[comment]: <> (No decorrer do evento, está prevista a realização de uma exposição técnica virtual, na qual se conta com a participação de instituições e de empresas. )
 
 No último dia do Congresso estão programadas visitas técnicas virtuais. 
 Poderão, ainda, ser realizados eventos sociais a divulgar oportunamente.

@@ -14,14 +14,18 @@ plugins:
   - jekyll-assets
   - jekyll-sitemap
 
-domain: ricardosgeral.github.io
-url: https://ricardosgeral.github.io
-baseur: 17CNG2020
+url: http://17cng2020.lnec.pt
+baseur: ""
+
+# to deploy to githubpages
+#domain: ricardosgeral.github.io
+#url: https://ricardosgeral.github.io
+#baseur: 17CNG2020
 
 # Configuration for site
 title: "17cng2020"
 logo:
-  image: images/17cng2021.gif
+  image: images/17CNG_logo.png
   info: 17CNG 2020, LNEC, Lisboa
 
 google_analytics_id: UA-144463477-1
@@ -83,6 +87,9 @@ menu:
   - name: Artigos aceites
     url: /accepted-papers.html
     icon: fa-check-square
+  - name: Instruções para as apresentações
+    icon: fa-thumb-tack
+    url: /presentations.html
   - name: VII Lição Victor de Mello
     url: /licao-victor-mello.html
     icon: fa-university
@@ -98,15 +105,9 @@ menu:
   - name: Prémio Teixeira Duarte
     icon: fa-trophy
     url: /premio-teixeira-duarte.html
-  - name: Empresas
+  - name: Empresas/Apoios
     icon: fa-handshake-o
-    submenu:
-      - name: Apoios
-        icon: fa-pencil
-        url: /supporters.html
-  #  - name: Expositores
-  #    icon: fa-eye
-  #    url: /stands.html
+    url: /supporters.html
   #- name: Alojamento
   #  icon: fa-building-o
   #  url: /hoteis.html

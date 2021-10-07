@@ -1,11 +1,11 @@
 [
+  [1400, "Logo_Teixeiraduarte.png", "https://www.teixeiraduarte.pt/", "Teixeira-Duarte", 0, 220, 220,   "gold"],
 
-  [200, "Logo_TPF.png", "https://www.tpf.pt/", "TPF", 0, 220, 220,   "silver"],
-  [200, "Logo_LECA.png", "https://www.leca.pt", "LECA", 0, 220, 220,   "silver"],
-  [200, "Logo_EDP.png", "https://www.edp.pt", "EDP", 0, 220, 220,   "silver"],
+  [400, "Porto_Metro_logo.png", "https://www.metrodoporto.pt/", "Metro-do-Porto", 0, 120, 120,   "silver"],
+  [400, "Logo_Aqualogus.png", "http://www.aqualogus.pt/", "Aqualogus", 0, 120, 120,   "silver"],
+  [400, "Logo_Elsamex-Portugal.png", "http://www.elsamex.pt/", "GEOVIA", 0, 120, 120,   "silver"],
 
-  [50, "Logo_JETsj.png", "https://jetsj.com/", "JetSJ", 0, 220, 220,   "bronze"],
-  [50, "Logo_Elsamex-Portugal.png", "http://www.elsamex.pt/", "ELSAMEX", 0, 220, 220,   "bronze"],
-  [50, "Logo_ME-ENGENHARIA.png", "http://engenharia.mota-engil.pt/", "Mota-Engil", 0, 220, 220,   "bronze"]
-
+  [50, "EPOS.jpg", "https://www.epos.pt/", "EPOS", 0, 20, 20,   "bronze"],
+  [50, "logo-afaplan.png", "https://afaplan.com/?lang=pt", "AFAPLAN", 0, 20, 20,   "bronze"],
+  [50, "Logo_JETsj.png", "https://jetsj.com/", "JETsj", 0, 20, 20,   "bronze"]
 ]

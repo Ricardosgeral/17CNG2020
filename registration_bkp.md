@@ -15,7 +15,11 @@ registrations:
 
 ---
 
+
 # {{ page.title }}
+
+## Custos
+
 A inscrição no 17CNG e no 10CLBG é efetuada através do preenchimento do Formulário de Inscrição.
 <br>
 

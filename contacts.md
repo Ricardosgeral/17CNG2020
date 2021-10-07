@@ -24,6 +24,9 @@ group: Contactos
 
 > <i class="fa fa-inbox" style="font-size:25px; padding: 0px 10px 0px 20px"></i>   17cng2020@lnec.pt 
 
+> *Assuntos relacionados com comunicações*
+> 
+> <i class="fa fa-inbox" style="font-size:25px; padding: 0px 10px 0px 20px"></i> 17cng2021@gmail.com 
 
 ## Página da internet
 

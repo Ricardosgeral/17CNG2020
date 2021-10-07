@@ -23,17 +23,25 @@ congressos:
 #  date: <del>2020, 27 de abril</del> Adiado.
 #  important: true
 
+papers-revisao:
+  track: main
+  info_main: Data limite para a <span class="blink_text"><strong>submissão dos ficheiros (pptx e mp4) da apresentação </strong></span>.
+  date: 2021, 7 de novembro
+  important: true
+
+papers-revisao1:
+    track: main
+    info_main: Data limite de pagamento para o efeito de se considerar a inclusão dos artigos nas atas
+    date: 2021, 1 de novembro
+    important: true
+
 papers-final:
   track: main
   info_main: Data limite para envio da versão definitiva das comunicações
   date: 2021, 1 de novembro
   important: true
 
-#papers-revisao:
-#  track: main
-#  info_main: Informação sobre a aceitação dos trabalhos e eventuais alterações
-#  date: 2020, 4 de março
-#  important: true
+
 
 #papers-entrega1:
 #  track: main
@@ -59,16 +67,16 @@ papers-entrega:
 #  date: <del>2020, 15 de janeiro</del>
 #  important: true
 
-resumos-aceitacao:
-  track: main
-  info_main: Informação sobre a aceitação dos resumos
-  date: 2021, 31 de julho
-  important: true
+#resumos-aceitacao:
+#  track: main
+#  info_main: Informação sobre a aceitação dos resumos
+#  date: 2021, 31 de julho
+#  important: true
 
 resumos-entrega:
   track: main
   info_main:  Data limite para envio dos resumos
-  date: 2021, 22 de julho
+  date: 2021, 31 de julho
   important: true
 
 #progama1:

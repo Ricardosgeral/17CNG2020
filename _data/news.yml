@@ -29,22 +29,27 @@
 #- date: 2020, 15 de janeiro
 #  news: Lançamento do <strong>Boletim 2 </strong> do evento <br> <iframe src="https://drive.google.com/file/d/1mNlbrbFxauIaG4t4MwkecDv-XchXDrju/preview" width="100%" height="250px"></iframe>
 
-#- date: 2019, 3 de dezembro
-#  news: Encontram-se <span class="blink_text"> <strong>ABERTAS </strong> </span>as <a href="registration.html">incrições para o 17CNG/10CLBG</a>. Data limite para inscrição a custo reduzido é a 31 de janeiro de 2020
-
-#- date: 2019, 3 de dezembro
-#  news: Encontram-se <span class="blink_text"> <strong>ABERTAS </strong> </span> as incrições para os <a href="supporters.html"> Patrocinadores </a> e para a <a href="stands.html"> Exposição Técnica</a>.
 
 #- date: 2021, 4 de novembro
 #  news: O período para <a href="submission-CNG.html"> submissão</a> de resumos foi alargado até 15 de novembro 2019
 
-#- date: 2021, 3 de julho
-#  news: Já está disponível a plataforma para submissão de comunicações no <a href="call-papers-CNG.html">  Easychair</a>
+- date: 2021, 7 de outubro
+  news: A data limite de pagamento para o efeito de se considerar a inclusão dos artigos nas atas é <span class="blink_text"><strong>1 de novembro de 2021</strong></span>.
+
+- date: 2021, 9 de setembro
+  news: <span class="blink_text"><strong>EMPRESAS</strong></span> - Consultar informações relativas ao <a href="supporters.html">PATROCÍNIO</a> dos eventos.
+
+- date: 2021, 9 de setembro
+  news: Encontram-se ABERTAS as <a href="registration.html">incrições para o 17CNG/10CLBG</a>.
+
 - date: 2021, 7 de julho
   news: Prémios José Folque - Jovens Geotécnicos em Língua Portuguesa e em Língua Inglesa - <strong>Reaberto</strong> o prazo de submissão de candidaturas até 5 de setembro de 2021 <a href="jovens-geo.html">[+]</a>
 
+- date: 2021, 3 de julho
+  news: Já está disponível a plataforma para submissão de comunicações no <a href="call-papers-CNG.html">  Easychair</a>
+
 - date: 2021, 2 de julho
-  news: Apelo a <span class="blink_text"> <strong> resumos (ou artigos) </strong>  </span> para o <a href="call-papers-CNG.html"> 17CNG</a> e para o <a href="call-papers-CLBG.html"> 10CLBG </a>
+  news: Apelo a resumos (ou artigos) para o <a href="call-papers-CNG.html"> 17CNG</a> e para o <a href="call-papers-CLBG.html"> 10CLBG </a>
 
 #- date: 2021, 7 de julho
 #  news: Lançamento do 1º boletim do evento <br> <iframe src="https://docs.google.com/file/d/1jRwraEX_KixPL0NskCMd9bRlqoZZGP9Y/preview" width="100%" height="150px"></iframe>

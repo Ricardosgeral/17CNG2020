@@ -1,3 +1,11 @@
 [
+  [1000, "Logo_JETsj.png", "https://jetsj.com/", "JETsj", 0, 220, 220,   "gold"],
+  [1000, "Logo_Teixeiraduarte.png", "https://www.teixeiraduarte.pt/", "Teixeira-Duarte", 0, 220, 220,   "gold"],
 
+  [500, "Logo_Aqualogus.png", "www.aqualogus.pt/", "Aqualogus", 0, 120, 120,   "silver"],
+  [500, "Porto_Metro_logo.png", "https://www.metrodoporto.pt/", "Metro-do-Porto", 0, 120, 120,   "silver"],
+
+  [200, "logo-afaplan.png", "https://afaplan.com/?lang=pt", "AFAPLAN", 0, 20, 20,   "bronze"],
+  [200, "EPOS.jpg", "https://www.epos.pt/", "EPOS", 0, 20, 20,   "bronze"],
+  [200, "logo_keller.png", "https://www.keller.com/", "Keller", 0, 20, 20,   "bronze"]
 ]

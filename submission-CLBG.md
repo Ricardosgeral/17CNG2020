@@ -9,13 +9,11 @@ group: 10CLBG
 
 ## Processo de submissão
 
-Em atualização
+Já está disponível a plataforma para submissão de resumos.
 
-[comment]: <> (Já está disponível a plataforma para submissão de resumos.)
+Todos os trabalhos devem ser originais e não ter sido submetidos simultaneamente noutra revista ou conferência.
 
-[comment]: <> (Todos os trabalhos devem ser originais e não ter sido submetidos simultaneamente noutra revista ou conferência.)
-
-[comment]: <> (As submissões deverão ser efetuadas através da plataforma [EASYCHAIR]&#40;https://easychair.org/conferences/?conf=17cng&#41; utilizando o template do congresso.)
+As submissões deverão ser efetuadas através da plataforma [EASYCHAIR](https://easychair.org/conferences/?conf=17cng0) utilizando o template do congresso.
 
 
 ## Formatação das comunicações (*template*)

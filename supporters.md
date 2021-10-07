@@ -1,47 +1,111 @@
 ---
-layout: default 
-title: Apoios 
+layout: default
+title: Apoios
 group: Empresas
 ---
 
 # {{ page.title }}
 
-# Stands virtuais de empresas (*exemplos*)
- 
-<div class="container">
-    <div class="row">
-        <div class="d-flex justify-content-left">
-            <div class="col-lg-8">
-                <a href="https://www.mota-engil.com/en/"> <h2><img src="{{ site.baseurl }}/images/sponsors/Logo_ME-ENGENHARIA.png" alt="" style="height:80px"/></h2></a>
-                <div id="Container1"
-                     style="padding-bottom:50%; position:relative; display:block; width: 100%">
-                    <iframe id="ViostreamIframe1" width="100%" height="100%"
-                            src="https://ricardosgeral.github.io/lnec_mrzpn/" allowfullscreen=""
-                            style="position:absolute; top:0; left: 0; border-radius: 10px; border-width:0"></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
-    <div class="row">
-        <div class="d-flex justify-content-left">
-            <div class="col-sm-5">
-                <h2><img src="{{ site.baseurl }}/images/sponsors/Logo_Elsamex-Portugal.jpg" alt="" style="height:80px"/></h2>
-                <div id="Container12"
-                     style="padding-bottom:70%; position:relative; display:block; width: 95%">
-                    <iframe id="ViostreamIframe12" width="100%" height="100%"
-                            src="https://ricardosgeral.github.io/lnec_mrzpn/" allowfullscreen=""
-                            style="position:absolute; top:0; left: 0; border-radius: 10px; border-width:0"></iframe>
-                </div>
-            </div>
-            <div class="col-sm-3">
-                <h2><img src="{{ site.baseurl }}/images/sponsors/Logo_BIANCHINI.png" alt="" style="height:80px"/></h2>
-                <div id="Container3"
-                     style="padding-bottom:70%; position:relative; display:block; width: 95%">
-                    <iframe id="ViostreamIframe3" width="100%" height="100%"
-                            src="https://ricardosgeral.github.io/lnec_mrzpn/" allowfullscreen=""
-                            style="position:absolute; top:0; left: 0; border-radius: 10px; border-width:0"></iframe>
-                </div>
-            </div>
-        </div>
-    </div>
+## Patrocinadores até à data
+
+<div class="ui-corner-all custom-corners">
+<div class="ui-bar ui-bar-a" markdown="1">
+### Ouro (3000 Euros)
 </div>
+
+<div class="ui-body ui-body-a" markdown="1">
+
+
+<div style="text-align: center;">
+{% for supporter in site.data.supporters
+%}{% if supporter[7] == "gold"
+%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 100px; margin: 10px" /></a>
+{% endif
+%}{% endfor %}
+</div>
+</div>
+</div>
+
+
+
+<!-- Current Sponsors: -->
+
+
+<div class="ui-corner-all custom-corners">
+<div class="ui-bar ui-bar-a" markdown="1">
+
+
+
+### Prata (1500 Euros)
+
+</div>
+
+<div class="ui-body ui-body-a" markdown="1">
+
+
+<div style="text-align: center;">
+{% for supporter in site.data.supporters
+%}{% if supporter[7] == "silver"
+%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 80px; margin: 10px" /></a>
+{% endif
+%}{% endfor %}
+</div>
+</div>
+</div>
+
+
+
+<!-- Current Sponsors: -->
+
+
+<div class="ui-corner-all custom-corners">
+<div class="ui-bar ui-bar-a" markdown="1">
+
+
+### Bronze (750 Euros)
+
+</div>
+
+<div class="ui-body ui-body-a" markdown="1">
+
+<div style="text-align: center;">
+{% for supporter in site.data.supporters
+%}{% if supporter[7] == "bronze"
+%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 55px; margin: 10px" /></a>
+{% endif
+%}{% endfor %}
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+## Tipos de Patrocínio
+
+As empresas interessadas em apoiar o 17º Congresso Nacional de Geotecnia e o 10º Congresso Luso-Brasileiro de Geotecnia podem fazê-lo de várias formas, conforme o quadro abaixo. 
+
+Para mais informações não deixe de contactar a organização do congresso através dos diversos contactos disponibilizados.
+
+<br>
+
+[FICHA DE INSCRIÇÃO PARA PATROCINADORES](https://drive.google.com/file/d/1hZMucN2upwxvg_89578D9LCuMU8tOZ5n/view?usp=sharing){: data-role="button" class="button" style="width:70%;"}
+
+<br>
+
+
+<table class="table">
+  <tbody>
+    <tr>
+      <td align="center"> <img src="{{site.baseurl}}/images/sponsors/patrocinadores_condicoes.png" style="width:90%; max-width:600px" title="" alt=""> </td>
+    </tr> 
+  </tbody>
+</table>
+ 
+
+<br>
+
+

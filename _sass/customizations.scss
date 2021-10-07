@@ -216,6 +216,7 @@ p {
     font-weight: bold;
 }
 
+
 .content-primary .ui-listview p {
     margin:      0px;
     line-height: 1.2em;
@@ -351,12 +352,12 @@ p {
 }
 
 .content-primary .program .prog-item {
-    padding: 0.5em 1.0em;
+    color: white;
 }
 
 .content-primary .program .ui-bar-a {
     padding: 0em 1.0em;
-    background-color: $highlight;
+    background-color: $secondary;
     border-color: #bbb;
 }
 
@@ -372,7 +373,9 @@ html .ui-bar-a a:link, html .ui-bar-a a:visited, html .ui-bar-a a:hover, html .u
     white-space: normal;
     word-wrap: break-word;
 }
-
+.content-primary .program .ui-bar-a p {
+    color: #FFFFFF;
+}
 //.content-primary .program .ui-bar-b {
 //    padding: 0em 1.0em;
 //    background-color: $program-break-background;
@@ -389,6 +392,7 @@ html .ui-bar-a a:link, html .ui-bar-a a:visited, html .ui-bar-a a:hover, html .u
 
 .content-primary .program .prog-break h3 {
     font-weight: 400;
+    font-size: 0.85em;
     color: #000000;
     text-align: left;
     text-shadow: none;
@@ -427,7 +431,7 @@ span.show_hide {
 
 table.prog-keynote
 {
-    color: #000000;
+    color: #FFFFFF;
 }
 
 .content-primary .program .prog-keynote h3 {
@@ -438,6 +442,15 @@ table.prog-keynote
     white-space: normal;
     word-wrap: break-word;
 }
+
+.content-primary .program .prog-keynote p {
+    color: #FFFFFF;
+    text-align: left;
+    text-shadow: none;
+}
+
+
+
 
 .content-primary .program .prog-tutorial {
     padding: 0em 1.0em;
@@ -634,7 +647,7 @@ table.prog-keynote
 
 .content-primary .hotel-header {
     font-size: 1em;
-    color: #1A601A;
+    color: #1A801A;
     font-weight: 500;
 }
 
