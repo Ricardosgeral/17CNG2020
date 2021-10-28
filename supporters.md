@@ -10,7 +10,7 @@ group: Empresas
 
 <div class="ui-corner-all custom-corners">
 <div class="ui-bar ui-bar-a" markdown="1">
-### Ouro (3000 Euros)
+### Ouro
 </div>
 
 <div class="ui-body ui-body-a" markdown="1">
@@ -19,33 +19,6 @@ group: Empresas
 <div style="text-align: center;">
 {% for supporter in site.data.supporters
 %}{% if supporter[7] == "gold"
-%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 100px; margin: 10px" /></a>
-{% endif
-%}{% endfor %}
-</div>
-</div>
-</div>
-
-
-
-<!-- Current Sponsors: -->
-
-
-<div class="ui-corner-all custom-corners">
-<div class="ui-bar ui-bar-a" markdown="1">
-
-
-
-### Prata (1500 Euros)
-
-</div>
-
-<div class="ui-body ui-body-a" markdown="1">
-
-
-<div style="text-align: center;">
-{% for supporter in site.data.supporters
-%}{% if supporter[7] == "silver"
 %}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 80px; margin: 10px" /></a>
 {% endif
 %}{% endfor %}
@@ -62,7 +35,34 @@ group: Empresas
 <div class="ui-bar ui-bar-a" markdown="1">
 
 
-### Bronze (750 Euros)
+
+### Prata
+
+</div>
+
+<div class="ui-body ui-body-a" markdown="1">
+
+
+<div style="text-align: center;">
+{% for supporter in site.data.supporters
+%}{% if supporter[7] == "silver"
+%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 60px; margin: 10px" /></a>
+{% endif
+%}{% endfor %}
+</div>
+</div>
+</div>
+
+
+
+<!-- Current Sponsors: -->
+
+
+<div class="ui-corner-all custom-corners">
+<div class="ui-bar ui-bar-a" markdown="1">
+
+
+### Bronze
 
 </div>
 
@@ -71,7 +71,7 @@ group: Empresas
 <div style="text-align: center;">
 {% for supporter in site.data.supporters
 %}{% if supporter[7] == "bronze"
-%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 55px; margin: 10px" /></a>
+%}<a href="{{ supporter[2] }}"><img src="{{ site.baseurl }}/images/sponsors/{{ supporter[1] }}" alt="{{ supporter[3] }}" style="height: 50px; margin: 10px" /></a>
 {% endif
 %}{% endfor %}
 </div>

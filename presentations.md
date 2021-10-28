@@ -18,11 +18,9 @@ Por favor, contacte a Comissão Organizadora (17cng2021@gmail.com) caso tenha al
 ## Registo
 Os autores que queiram participar no 17CNG/10CLBG devem preencher o [formulário de inscrição]({{site.baseurl}}/registration.html).
 
-No caso de coautores que queiram participar no 17CNG/10CLBG, o autor registado deve enviar à Comissão Organizadora (17cng2021@gmail.com) uma lista com os nomes dos coautores que querem participar no evento. A data limite para o registo dos autores termina a 10 de novembro de 2021. 
+Note que para publicação do artigo nas atas do 17CNG/10CLBG é necessário o registo de pelo menos um dos autores.
 
-Note que para o 17CNG/10CLBG é necessário um registo de um dos autores. Mais detalhes serão fornecidos à medida que novas datas vão sendo definidas. 
-
-Cada inscrição dá direito à publicação de 2 artigos nas atas digitais do congresso. Cada artigo tem de ter pelo menos um autor inscrito. Os autores com 3 artigos, ou mais, devem contactar a Comissão Organizadora (17cng2021@gmail.com).
+Cada inscrição dá direito à publicação de 2 artigos nas atas digitais do congresso. Cada artigo tem de ter pelo menos um autor inscrito.
 
 A data limite de pagamento para o efeito de se considerar a inclusão dos artigos nas atas é 1 de novembro de 2021.
 
@@ -35,11 +33,11 @@ O template do ficheiro da apresentação pode ser descarregado [AQUI](https://do
 
 Para descarregar o ficheiro: Ficheiro (File) -> Transferir (Download) -> .pptx
 
-O ficheiro da apresentação deve ser carregado na plataforma do 17CNG (ficheiro ppt/pptx, com um máximo de 5 MB). Cada apresentação tem um limite de 12 minutos (cerca de 15-20 slides). 
+O ficheiro da apresentação deve ser carregado na plataforma do 17CNG (ficheiro ppt/pptx, com um máximo de 5 MB). Cada apresentação tem um limite de 10 minutos (cerca de 12-15 slides). 
 
  
 ## Instruções para gravação do vídeo para apresentação da comunicação
 
 Consulte as [instruções](https://drive.google.com/file/d/1MO_ZWv66njoy21cmNM7bnrcn5SHr96qj/view?usp=sharing) para a elaboração do video de apresentação da sua comunicação.
 
-A data limite para a submissão dos ficheiros (pptx e mp4) da apresentação é 7 de novembro de 2021. 
+A data limite para a submissão dos ficheiros (pptx e mp4) da apresentação é 8 de novembro de 2021. 

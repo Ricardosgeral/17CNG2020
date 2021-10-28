@@ -111,9 +111,9 @@ menu:
   #- name: Alojamento
   #  icon: fa-building-o
   #  url: /hoteis.html
-  - name: Visitas técnicas virtuais
-    icon: fa-map-signs
-    url: /technical_visits.html
+#  - name: Visitas técnicas virtuais
+#    icon: fa-map-signs
+#    url: /technical_visits.html
   - name: Eventos sociais
     icon: fa-calendar
     submenu:

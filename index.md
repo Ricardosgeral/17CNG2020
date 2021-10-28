@@ -104,8 +104,7 @@ As conferências, as apresentações e as comunicações serão disponibilizadas
 
 [comment]: <> (No decorrer do evento, está prevista a realização de uma exposição técnica virtual, na qual se conta com a participação de instituições e de empresas. )
 
-No último dia do Congresso estão programadas visitas técnicas virtuais. 
-Poderão, ainda, ser realizados eventos sociais a divulgar oportunamente.
+No dia 17 de novembro (à tarde) está prevista a realização de quatro apresentações de obras nacionais relevantes, em curso, que apresentam uma componente Geotécnica importante.
 
 ## <i class="fa fa-newspaper-o"></i> Notícias
 
@@ -125,10 +124,9 @@ Poderão, ainda, ser realizados eventos sociais a divulgar oportunamente.
 ## <i class="fa fa-gg"></i> Organização
 
 
-
 <div class="sponsors">
-    <a href="//www.spgeotecnia.pt/"><img src="images/SPG_logo.png" alt="Sociedade Portuguesa de Geotecnia" /></a>
 	<a href="//www.lnec.pt/"><img src="images/LNEC_logo_2linhas.png" alt="Laboratório Nacional de Engenharia Civil" /></a>
+    <a href="//www.spgeotecnia.pt/"><img src="images/SPG_logo.png" alt="Sociedade Portuguesa de Geotecnia" /></a>
 	<a href="//www.abms.com.br/"><img src="images/ABMS70.png" alt="Associação Brasileira de Mecânica dos solos e Engenharia Geotecnica" /></a>  
 
 </div>

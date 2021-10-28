@@ -1,11 +1,35 @@
 [
+  [1000, "Geosol-01.png", "https://geosol-fg.com/", "Geosol", 0, 220, 220,   "gold"],
   [1000, "Logo_JETsj.png", "https://jetsj.com/", "JETsj", 0, 220, 220,   "gold"],
+  [1000, "Logo_LECA.png", "https://www.leca.pt/", "Leca", 0, 220, 220,   "gold"],
   [1000, "Logo_Teixeiraduarte.png", "https://www.teixeiraduarte.pt/", "Teixeira-Duarte", 0, 220, 220,   "gold"],
 
   [500, "Logo_Aqualogus.png", "www.aqualogus.pt/", "Aqualogus", 0, 120, 120,   "silver"],
+  [500, "bianchini.jpg", "https://abianchini.es/", "Bianchini", 0, 120, 120,   "silver"],
+  [500, "Brisa.png", "https://www.brisa.pt/pt/", "Brisa", 0, 120, 120,   "silver"],
+  [500, "Coba.png", "www.coba.pt/", "Coba", 0, 120, 120,   "silver"],
+  [500, "Logo_EDP.png", "www.edp.pt", "EDP", 0, 120, 120,   "silver"],
+  [500, "Logo Geocontrole.jpg", "https://www.geocontrole.pt/", "Geocontrole", 0, 120, 120,   "silver"],
+  [500, "Geovia.png", "https://geovia.pt/", "Geovia", 0, 120, 120,   "silver"],
+  [500, "Iberdrola-Logo.png", "https://www.iberdrola.pt/", "Iberdrola", 0, 120, 120,   "silver"],
   [500, "Porto_Metro_logo.png", "https://www.metrodoporto.pt/", "Metro-do-Porto", 0, 120, 120,   "silver"],
+  [500, "Logo_ME-ENGENHARIA.jpg", "https://www.mota-engil.com/", "Mota Engil", 0, 120, 120,   "silver"],
+  [500, "SacyrSomague.jpg", "https://www.sacyrinfraestructuras.com/pt/somague", "SacyrSomague", 0, 120, 120,   "silver"],
+  [500, "TPF_Logo.jpg", "www.tpf.pt/", "TPF", 0, 120, 120,   "silver"],
+  [500, "zagope_logo.png", "https://www.zagope.pt/", "Zagope", 0, 120, 120,   "silver"],
 
-  [200, "logo-afaplan.png", "https://afaplan.com/?lang=pt", "AFAPLAN", 0, 20, 20,   "bronze"],
-  [200, "EPOS.jpg", "https://www.epos.pt/", "EPOS", 0, 20, 20,   "bronze"],
-  [200, "logo_keller.png", "https://www.keller.com/", "Keller", 0, 20, 20,   "bronze"]
+  [250, "logo-afaplan.png", "https://afaplan.com/?lang=pt", "AFAPLAN", 0, 20, 20,   "bronze"],
+  [250, "logo_EngiGeo.png", "https://engigeo.pt/", "EngiGeo", 0, 20, 20,   "bronze"],
+  [250, "EPOS.jpg", "https://www.epos.pt/", "EPOS", 0, 20, 20,   "bronze"],
+  [250, "LOGO EXTRACO PT.jpg", "http://www.extraco.es/pt/", "EXTRACO", 0, 20, 20,   "bronze"],
+  [250, "geoalgar.jpg", "https://www.geoalgar.pt/", "GEOalgar", 0, 20, 20,   "bronze"],
+  [250, "Logo GeoInT.png", "http://www.geoint.pt/", "GeoInT", 0, 20, 20,   "bronze"],
+  [250, "logo_keller.png", "https://www.keller.com/", "Keller", 0, 20, 20,   "bronze"],
+  [280, "LCW.jpg", "http://www.lcwconsult.com/", "LCW Consult", 0, 20, 20,   "bronze"],
+  [250, "Propex.png", "https://propexglobal.com/", "Propex", 0, 20, 20,   "bronze"],
+  [250, "Sika.jpg", "https://prt.sika.com/", "Sika", 0, 20, 20,   "bronze"],
+  [250, "SondagensOeste.png", "https://www.sondagensoeste.pt/", "SondagensOeste", 0, 20, 20,   "bronze"],
+  [250, "TC Geosynthetics.png", "https://www.tencategeo.com/", "Tencate", 0, 20, 20,   "bronze"],
+  [250, "Terratest.png", "https://www.terratest.com/portugues/home.html", "Terratest", 0, 20, 20,   "bronze"]
+
 ]
